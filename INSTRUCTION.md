@@ -2,7 +2,6 @@ Here is a complete, production-ready `INSTRUCTIONS.md` file designed for your te
 
 ---
 
-```markdown
 # 🇪🇬 Egypt Smart Relocation Advisor — Team Onboarding & Contribution Guide
 
 Welcome to the team! This document outlines our setup steps, development workflow, git standards, and repository structure. Following these instructions ensures everyone works in an identical environment and keeps our git history clean for portfolio and academic review.
