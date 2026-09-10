@@ -5,10 +5,16 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
+    "geopandas>=1.1.4",
     "jupyter-collaboration>=5.0.2",
     "jupyterlab>=4.6.3",
     "matplotlib>=3.11.1",
     "numpy>=2.5.3",
+    "osmnx>=2.1.1",
     "pandas>=3.0.5",
+    "plotly>=7.0.0",
+    "requests>=2.34.2",
+    "scikit-learn>=1.9.0",
     "scipy>=1.18.1",
+    "streamlit>=1.63.0",
 ]

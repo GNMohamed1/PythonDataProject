@@ -1,10 +1,38 @@
-# Python-generated files
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[oc]
+*.py[cod]
+*$py.class
+
+# Virtual environments (uv / venv)
+.venv/
+venv/
+env/
+ENV/
+.uv/
+
+# Secrets & Local Configuration
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Streamlit specific
+.streamlit/secrets.toml
+.streamlit/cache/
+
+# Operating System & IDE artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Distribution / Packaging
 build/
 dist/
-wheels/
-*.egg-info
-
-# Virtual environments
-.venv
+*.egg-info/
