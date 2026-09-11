@@ -1,0 +1,366 @@
+id,name_en,name_ar,slug,lat,lon,parent_id,gov_en,gov_ar
+EG1309,10 Ramadan 1,قسم اول مدينة العاشر من رمضان,10-ramadan-1-eg1309,30.222,31.732,EG13,Sharkia,الشرقية
+EG1321,10 Ramadan 2,قسم ثان مدينه العاشر من رمضان,10-ramadan-2-eg1321,30.238,31.7,EG13,Sharkia,الشرقية
+EG0103,15 Mayu,قسم 15 مايو,15-mayu-eg0103,29.853,31.387,EG01,Cairo,القاهرة
+EG2107,6 October-1,قسم أول 6 أكتوبر,6-october-1-eg2107,29.985,30.963,EG21,Giza,الجيزة
+EG2121,6 October-2,قسم ثان 6 أكتوبر,6-october-2-eg2121,29.941,30.908,EG21,Giza,الجيزة
+EG3202,A-Dakhla Oasis,مركز الوحات الداخلة,a-dakhla-oasis-eg3202,24.803,27.209,EG32,New Valley,الوادى الجديد
+EG0209,A L Labban,قسم اللبان,a-l-labban-eg0209,31.191,29.892,EG02,Alexandria,الاسكندرية
+EG0109,Abdin,قسم عابدين,abdin-eg0109,30.046,31.245,EG01,Cairo,القاهرة
+EG2504,Abnub,مركز أبنوب,abnub-eg2504,27.295,31.106,EG25,Assiut,أسيوط
+EG1413,Abour,قسم العبور,abour-eg1413,30.225,31.447,EG14,Kalyoubia,القليوبية
+EG2303,Abshaway,مركز أبشواى,abshaway-eg2303,29.374,30.69,EG23,Fayoum,الفيوم
+EG1803,Abu-l-Matamir,مركز ابوالمطامير,abu-l-matamir-eg1803,30.773,30.144,EG18,Behera,البحيرة
+EG1304,Abu Hammad,مركز أبو حماد,abu-hammad-eg1304,30.543,31.649,EG13,Sharkia,الشرقية
+EG1804,Abu Hummus,مركز ابوحمص,abu-hummus-eg1804,31.106,30.31,EG18,Behera,البحيرة
+EG1305,Abu Kabir,مركز أبوكبير,abu-kabir-eg1305,30.733,31.69,EG13,Sharkia,الشرقية
+EG3503,Abu Radis,قسم أبو رديس,abu-radis-eg3503,29.049,33.598,EG35,South Sinai,جنوب سيناء
+EG2807,Abu Simbel,مركز أبوسنبل,abu-simbel-eg2807,22.624,32.599,EG28,Aswan,أسوان
+EG2505,Abu Tig,مركز أبوتيج,abu-tig-eg2505,27.037,31.289,EG25,Assiut,أسيوط
+EG2703,Abu Tisht,مركز أبو طشت,abu-tisht-eg2703,26.13,32.086,EG27,Qena,قنا
+EG2803,Adfu,مركز أدفو,adfu-eg2803,25.061,32.957,EG28,Aswan,أسوان
+EG1204,Aga,مركز أجا,aga-eg1204,30.895,31.313,EG12,Dakahlia,الدقهلية
+EG2206,Ahnasya,مركز أهناسيا,ahnasya-eg2206,29.102,30.943,EG22,Beni Suef,بنى سويف
+EG0130,Ain Shams,قسم عينشمس,ain-shams-eg0130,30.123,31.33,EG01,Cairo,القاهرة
+EG2604,Akhmim,مركز أخميم,akhmim-eg2604,26.551,31.715,EG26,Suhag,سوهاج
+EG2618,Akhmim City,مدينة أخميم الجديدة,akhmim-city-eg2618,26.524,31.865,EG26,Suhag,سوهاج
+EG2506,Al- Badari,مركز البدارى,al-badari-eg2506,26.946,31.456,EG25,Assiut,أسيوط
+EG2102,Al-Aguza,قسم العجوزة,al-aguza-eg2102,30.059,31.204,EG21,Giza,الجيزة
+EG2106,Al-Ahram,قسم الأهرام,al-ahram-eg2106,29.99,31.136,EG21,Giza,الجيزة
+EG0302,Al-Arab,قسم العرب,al-arab-eg0302,31.262,32.294,EG03,Port Said,بورسعيد
+EG0402,Al-Arbiin,قسم الأربعين,al-arbiin-eg0402,29.98,32.536,EG04,Suez,السويس
+EG1704,Al-Bagur,مركز الباجور,al-bagur-eg1704,30.413,31.032,EG17,Menoufia,المنوفية
+EG2605,Al-Balyana,مركز البلينا,al-balyana-eg2605,26.241,31.944,EG26,Suhag,سوهاج
+EG0305,Al-Dawahy,قسم الضواحى,al-dawahy-eg0305,31.246,32.28,EG03,Port Said,بورسعيد
+EG1805,Al-Dilingat,مركز الدلنجات,al-dilingat-eg1805,30.81,30.49,EG18,Behera,البحيرة
+EG0405,Al-Ganayin,قسم الجناين,al-ganayin-eg0405,30.063,32.703,EG04,Suez,السويس
+EG0306,Al-Ganoub,قسم الجنوب,al-ganoub-eg0306,31.141,32.291,EG03,Port Said,بورسعيد
+EG0311,Al-Ganoub 2,قسم ثان الجنوب,al-ganoub-2-eg0311,30.993,32.254,EG03,Port Said,بورسعيد
+EG2508,Al-Ghanayem,مركز الغنايم,al-ghanayem-eg2508,26.922,31.329,EG25,Assiut,أسيوط
+EG3302,Al-Hammam,قسم الحمام,al-hammam-eg3302,29.804,29.418,EG33,Matrouh,مطروح
+EG3406,Al-Hasna,قسم الحسنة,al-hasna-eg3406,30.288,33.542,EG34,North Sinai,شمال سيناء
+EG1306,Al-Husayniya,مركز الحسينية,al-husayniya-eg1306,30.924,32.006,EG13,Sharkia,الشرقية
+EG3201,Al-Kharga Oasis,مركز الواحات الخارجة,al-kharga-oasis-eg3201,24.964,31.013,EG32,New Valley,الوادى الجديد
+EG1806,Al-Mahmudiyya,مركز المحمودية,al-mahmudiyya-eg1806,31.197,30.488,EG18,Behera,البحيرة
+EG0310,Al-Manasra,قسم المناصرة,al-manasra-eg0310,31.237,32.173,EG03,Port Said,بورسعيد
+EG2606,Al-Maragha,مركز المراغة,al-maragha-eg2606,26.669,31.588,EG26,Suhag,سوهاج
+EG2607,Al-Minshat,مركز المنشأة,al-minshat-eg2607,26.464,31.756,EG26,Suhag,سوهاج
+EG0303,Al-Munakh,قسم المناخ,al-munakh-eg0303,31.265,32.287,EG03,Port Said,بورسعيد
+EG1318,Al-Qanayat,قسم القنايات,al-qanayat-eg1318,30.635,31.471,EG13,Sharkia,الشرقية
+EG2509,Al-Qusia,مركز القوصية,al-qusia-eg2509,27.403,30.826,EG25,Assiut,أسيوط
+EG1815,Al-Rahmaniyya,مركز الرحمانية,al-rahmaniyya-eg1815,31.106,30.584,EG18,Behera,البحيرة
+EG1307,Al-Salhiyya,قسم الصالحية الجديدة,al-salhiyya-eg1307,30.634,32.006,EG13,Sharkia,الشرقية
+EG0301,Al-Sharq,قسم الشرق,al-sharq-eg0301,31.263,32.307,EG03,Port Said,بورسعيد
+EG1705,Al-Shuhada,مركز الشهداء,al-shuhada-eg1705,30.601,30.87,EG17,Menoufia,المنوفية
+EG3501,Al-Tur,قسم الطور,al-tur-eg3501,28.365,33.753,EG35,South Sinai,جنوب سيناء
+EG0307,Al-Zohour,قسم الزهور,al-zohour-eg0307,31.266,32.266,EG03,Port Said,بورسعيد
+EG0213,Al Amreia,قسم العامرية,al-amreia-eg0213,30.959,29.828,EG02,Alexandria,الاسكندرية
+EG0206,Al Attarin,قسم العطارين,al-attarin-eg0206,31.198,29.904,EG02,Alexandria,الاسكندرية
+EG0113,Al Azbakiyya,قسم الأزبكية,al-azbakiyya-eg0113,30.06,31.246,EG01,Cairo,القاهرة
+EG0114,Al Darb al-Ahmar,قسم الدرب الأحمر,al-darb-al-ahmar-eg0114,30.041,31.26,EG01,Cairo,القاهرة
+EG0212,Al Dikhila,قسم الدخيلة,al-dikhila-eg0212,31.119,29.806,EG02,Alexandria,الاسكندرية
+EG3203,Al Farafra Oasis,مركز الفرافرة,al-farafra-oasis-eg3203,27.205,26.76,EG32,New Valley,الوادى الجديد
+EG2204,Al Fashn,مركز الفشن,al-fashn-eg2204,28.809,30.827,EG22,Beni Suef,بنى سويف
+EG0210,Al Gumruk,قسم الجمرك,al-gumruk-eg0210,31.203,29.879,EG02,Alexandria,الاسكندرية
+EG1511,Al Hamul,مركز الحامول,al-hamul-eg1511,31.388,31.075,EG15,Kafr El-Shikh,كفر الشيخ
+EG0108,Al Khalifa,قسم الخليفة,al-khalifa-eg0108,30.01,31.296,EG01,Cairo,القاهرة
+EG1403,Al Khanka,مركز الخانكة,al-khanka-eg1403,30.231,31.358,EG14,Kalyoubia,القليوبية
+EG0207,Al Manshiyya,قسم المنشية,al-manshiyya-eg0207,31.198,29.892,EG02,Alexandria,الاسكندرية
+EG0125,Al Matariyya,قسم المطرية,al-matariyya-eg0125,30.128,31.304,EG01,Cairo,القاهرة
+EG0202,Al Raml,قسم أول الرمل,al-raml-eg0202,31.237,29.986,EG02,Alexandria,الاسكندرية
+EG0121,Al Sahil,قسم الساحل,al-sahil-eg0121,30.092,31.247,EG01,Cairo,القاهرة
+EG0132,Al Salam,قسم السلام,al-salam-eg0132,30.162,31.428,EG01,Cairo,القاهرة
+EG0118,Al Sharabiyya,قسم الشرابية,al-sharabiyya-eg0118,30.082,31.264,EG01,Cairo,القاهرة
+EG0101,Al Tibbin,قسم التبين,al-tibbin-eg0101,29.781,31.337,EG01,Cairo,القاهرة
+EG2617,Al Usayrat,مركز العسيرات,al-usayrat-eg2617,26.401,31.815,EG26,Suhag,سوهاج
+EG2712,Al Waqf,مركز الوقف,al-waqf-eg2712,26.084,32.448,EG27,Qena,قنا
+EG2205,Al Wasta,مركز الواسطى,al-wasta-eg2205,29.324,31.17,EG22,Beni Suef,بنى سويف
+EG0122,Al Wayli,قسم الوايلي,al-wayli-eg0122,30.072,31.283,EG01,Cairo,القاهرة
+EG0117,Al Zahir,قسم الظاهر,al-zahir-eg0117,30.063,31.268,EG01,Cairo,القاهرة
+EG0124,Al Zaytun,قسم الزيتون,al-zaytun-eg0124,30.1,31.301,EG01,Cairo,القاهرة
+EG3307,Alamn,قسم مارينا العلمين السياحية,alamn-eg3307,30.782,28.74,EG33,Matrouh,مطروح
+EG2513,Alfath,مركز الفتح,alfath-eg2513,27.218,31.212,EG25,Assiut,أسيوط
+EG2704,Armant,مركز أرمنت,armant-eg2704,25.612,32.492,EG27,Qena,قنا
+EG1703,Ashmun,مركز أشمون,ashmun-eg1703,30.299,31.008,EG17,Menoufia,المنوفية
+EG2503,Assuit,مركز أسيوط,assuit-eg2503,27.117,31.232,EG25,Assiut,أسيوط
+EG2514,Assuit City,مدينة اسيوط الجديدة,assuit-city-eg2514,27.254,31.281,EG25,Assiut,أسيوط
+EG2801,Aswan,قسم أسوان,aswan-eg2801,24.063,32.901,EG28,Aswan,أسوان
+EG2802,Aswan,مركز أسوان,aswan-eg2802,23.972,32.831,EG28,Aswan,أسوان
+EG2808,Aswan City,مدينة أسوان الجديدة,aswan-city-eg2808,24.068,32.983,EG28,Aswan,أسوان
+EG0403,Ataqa,قسم عتاقة,ataqa-eg0403,29.539,32.128,EG04,Suez,السويس
+EG2115,Atfeh,مركز أطفيح,atfeh-eg2115,29.343,31.25,EG21,Giza,الجيزة
+EG2304,Atsa,مركز أطسا,atsa-eg2304,29.208,30.767,EG23,Fayoum,الفيوم
+EG2116,Auseem,مركز أوسيم,auseem-eg2116,30.132,31.142,EG21,Giza,الجيزة
+EG1319,Awlad Saqr,مركز أولاد صقر,awlad-saqr-eg1319,30.969,31.777,EG13,Sharkia,الشرقية
+EG2112,Ayat,مركز العياط,ayat-eg2112,29.564,31.25,EG21,Giza,الجيزة
+EG0116,Bab Al-Shariyya,قسم باب الشعرية,bab-al-shariyya-eg0116,30.059,31.258,EG01,Cairo,القاهرة
+EG0204,Bab Sharqi,قسم باب شرقى,bab-sharqi-eg0204,31.205,29.921,EG02,Alexandria,الاسكندرية
+EG0141,Badr,قسم بدر,badr-eg0141,30.136,31.706,EG01,Cairo,القاهرة
+EG1818,Badr,مركز بدر,badr-eg1818,30.547,30.679,EG18,Behera,البحيرة
+EG2110,Badrashain,مركز البدرشين,badrashain-eg2110,29.824,31.258,EG21,Giza,الجيزة
+EG2114,Bahariya Oasis,قسم الواحاتالبحرية,bahariya-oasis-eg2114,28.452,28.836,EG21,Giza,الجيزة
+EG1401,Banha,قسم بنها,banha-eg1401,30.466,31.19,EG14,Kalyoubia,القليوبية
+EG1402,Banha,مركز بنها,banha-eg1402,30.443,31.248,EG14,Kalyoubia,القليوبية
+EG2201,Bani Swayf,قسم بنى سويف,bani-swayf-eg2201,29.077,31.097,EG22,Beni Suef,بنى سويف
+EG2202,Bani Swayf,مركز بنى سويف,bani-swayf-eg2202,29.098,31.042,EG22,Beni Suef,بنى سويف
+EG2203,Bani Swayf City,قسم مدينة بنى سويف الجديدة,bani-swayf-city-eg2203,28.982,31.159,EG22,Beni Suef,بنى سويف
+EG1218,Bany Abeed,مركز بنى عبيد,bany-abeed-eg1218,31.024,31.648,EG12,Dakahlia,الدقهلية
+EG0135,Basatin,قسم البساتين,basatin-eg0135,29.98,31.293,EG01,Cairo,القاهرة
+EG1608,Basyun,مركز بسيون,basyun-eg1608,30.959,30.827,EG16,Gharbia,الغربية
+EG2207,Biba,مركز ببا,biba-eg2207,28.951,30.967,EG22,Beni Suef,بنى سويف
+EG1308,Bilbis,مركز بلبيس,bilbis-eg1308,30.408,31.531,EG13,Sharkia,الشرقية
+EG1208,Bilqas,مركز بلقاس,bilqas-eg1208,31.344,31.379,EG12,Dakahlia,الدقهلية
+EG3405,Bir Al-Abd,قسم بئر العبد,bir-al-abd-eg3405,30.69,33.102,EG34,North Sinai,شمال سيناء
+EG1706,Birkat Al-Sab,مركز بركة السبع,birkat-al-sab-eg1706,30.651,31.108,EG17,Menoufia,المنوفية
+EG1504,Biyalu,مركز بيلا,biyalu-eg1504,31.32,31.248,EG15,Kafr El-Shikh,كفر الشيخ
+EG0112,Bulaq,قسم بولاق,bulaq-eg0112,30.062,31.234,EG01,Cairo,القاهرة
+EG2105,Bulaq Al-DakrUr,قسم بولاق الدكرور,bulaq-al-dakrur-eg2105,30.03,31.19,EG21,Giza,الجيزة
+EG0214,Burg al-Arab,قسم برج العرب,burg-al-arab-eg0214,30.901,29.494,EG02,Alexandria,الاسكندرية
+EG0216,Burg Al-Arab City,مدينه برج العرب الجديده,burg-al-arab-city-eg0216,30.899,29.622,EG02,Alexandria,الاسكندرية
+EG1503,Burullus,مركز البرلس,burullus-eg1503,31.521,31.273,EG15,Kafr El-Shikh,كفر الشيخ
+EG3304,Daba,مركز الضبعة,daba-eg3304,29.463,28.243,EG33,Matrouh,مطروح
+EG3506,Dahab,قسم دهب,dahab-eg3506,28.73,34.451,EG35,South Sinai,جنوب سيناء
+EG1801,Damanhur,قسم دمنهور,damanhur-eg1801,31.049,30.463,EG18,Behera,البحيرة
+EG1802,Damanhur,مركز دمنهور,damanhur-eg1802,31.032,30.527,EG18,Behera,البحيرة
+EG2608,Dar al-Salam,مركز دار السلام,dar-al-salam-eg2608,26.274,32.043,EG26,Suhag,سوهاج
+EG2806,Daraw,مركز دراو,daraw-eg2806,24.326,33.001,EG28,Aswan,أسوان
+EG2510,Dayrut,مركز ديروط,dayrut-eg2510,27.537,30.782,EG25,Assiut,أسيوط
+EG1209,Dikirnis,مركز دكرنس,dikirnis-eg1209,31.093,31.78,EG12,Dakahlia,الدقهلية
+EG2706,Dishna,مركز دشنا,dishna-eg2706,26.142,32.444,EG27,Qena,قنا
+EG1505,Disuq,قسم دسوق,disuq-eg1505,31.145,30.649,EG15,Kafr El-Shikh,كفر الشيخ
+EG1506,Disuq,مركز دسوق,disuq-eg1506,31.15,30.72,EG15,Kafr El-Shikh,كفر الشيخ
+EG1102,Dumyat,مركز دمياط,dumyat-eg1102,31.44,31.842,EG11,Damietta,دمياط
+EG1101,Dumyat 1,قسم أول دمياط,dumyat-1-eg1101,31.407,31.807,EG11,Damietta,دمياط
+EG1109,Dumyat 2,قسم ثان دمياط,dumyat-2-eg1109,31.425,31.819,EG11,Damietta,دمياط
+EG1105,Dumyat Al-Gadida,قسم مدينه دمياط الجديده,dumyat-al-gadida-eg1105,31.439,31.706,EG11,Damietta,دمياط
+EG2103,DuqqI,قسم الدقي,duqqi-eg2103,30.042,31.208,EG21,Giza,الجيزة
+EG1310,Dyarb Nigm,مركز ديرب نجم,dyarb-nigm-eg1310,30.752,31.444,EG13,Sharkia,الشرقية
+EG1202,E Mansora 2,قسم ثان المنصورة,e-mansora-2-eg1202,31.047,31.419,EG12,Dakahlia,الدقهلية
+EG1317,El-Ibrahimiya,مركز الأبراهيمية,el-ibrahimiya-eg1317,30.732,31.564,EG13,Sharkia,الشرقية
+EG3401,El Arish 1,قسم أول العريش,el-arish-1-eg3401,31.12,33.824,EG34,North Sinai,شمال سيناء
+EG3402,El Arish 2,قسم ثان العريش,el-arish-2-eg3402,31.09,33.751,EG34,North Sinai,شمال سيناء
+EG3403,El Arish 3,قسم ثالث العريش,el-arish-3-eg3403,30.995,33.777,EG34,North Sinai,شمال سيناء
+EG3404,El Arish 4,قسم رابع العريش,el-arish-4-eg3404,30.851,33.596,EG34,North Sinai,شمال سيناء
+EG1607,El Mahalla El Kobra,مركز المحله الكبرى,el-mahalla-el-kobra-eg1607,31.017,31.13,EG16,Gharbia,الغربية
+EG1605,El Mahalla El Kobra 1,قسم أول المحلة الكبرى,el-mahalla-el-kobra-1-eg1605,30.972,31.172,EG16,Gharbia,الغربية
+EG1606,El Mahalla El Kobra 2,قسم ثان المحلة الكبرى,el-mahalla-el-kobra-2-eg1606,30.971,31.157,EG16,Gharbia,الغربية
+EG1203,El Mansora,مركز المنصورة,el-mansora-eg1203,31.053,31.467,EG12,Dakahlia,الدقهلية
+EG1201,El Mansora 1,قسم اول المنصورة,el-mansora-1-eg1201,31.029,31.375,EG12,Dakahlia,الدقهلية
+EG1311,Faqus,قسم فاقوس,faqus-eg1311,30.723,31.798,EG13,Sharkia,الشرقية
+EG1312,Faqus,مركز فاقوس,faqus-eg1312,30.749,31.896,EG13,Sharkia,الشرقية
+EG1103,Fariskur,مركز فارسكور,fariskur-eg1103,31.31,31.733,EG11,Damietta,دمياط
+EG2710,Farshut,مركز فرشوط,farshut-eg2710,26.056,32.149,EG27,Qena,قنا
+EG1907,Fayid,مركز فايد,fayid-eg1907,30.366,32.292,EG19,Ismailia,الإسماعيلية
+EG0404,Faysal,قسم فيصل,faysal-eg0404,30.118,32.181,EG04,Suez,السويس
+EG2301,Fayyum,قسم الفيوم,fayyum-eg2301,29.314,30.839,EG23,Fayoum,الفيوم
+EG2302,Fayyum,مركز الفيوم,fayyum-eg2302,29.3,30.955,EG23,Fayoum,الفيوم
+EG2308,Fayyum City,مدينة الفيوم الجديدة,fayyum-city-eg2308,29.208,30.882,EG23,Fayoum,الفيوم
+EG1508,Fuwwa,مركز فوه,fuwwa-eg1508,31.232,30.564,EG15,Kafr El-Shikh,كفر الشيخ
+EG0115,Gamaliyya,قسم الجمالية,gamaliyya-eg0115,30.054,31.265,EG01,Cairo,القاهرة
+EG1215,Gamaliyya,مركز الجمالية,gamaliyya-eg1215,31.205,31.852,EG12,Dakahlia,الدقهلية
+EG1220,Gamsa,قسم جمصة,gamsa-eg1220,31.438,31.549,EG12,Dakahlia,الدقهلية
+EG2609,Girga,قسم جرجا,girga-eg2609,26.348,31.888,EG26,Suhag,سوهاج
+EG2610,Girga,مركز جرجا,girga-eg2610,26.307,31.867,EG26,Suhag,سوهاج
+EG2104,Giza,قسم الجيزة,giza-eg2104,29.999,31.216,EG21,Giza,الجيزة
+EG2109,Giza,مركز الجيزة,giza-eg2109,29.943,31.213,EG21,Giza,الجيزة
+EG2611,Guhayna Al-Gharbiyya,مركز جهينة الغربية,guhayna-al-gharbiyya-eg2611,26.689,31.471,EG26,Suhag,سوهاج
+EG0123,Hadaiq Al-Qubba,قسم حدائقالقبة,hadaiq-al-qubba-eg0123,30.086,31.283,EG01,Cairo,القاهرة
+EG3107,Halayib,قسم حلايب,halayib-eg3107,22.386,36.0,EG31,Red Sea,البحر الأحمر
+EG1315,Hihya,مركز ههيا,hihya-eg1315,30.652,31.617,EG13,Sharkia,الشرقية
+EG0102,Hilwan,قسم حلوان,hilwan-eg0102,29.854,31.329,EG01,Cairo,القاهرة
+EG3101,Hurghada 1,قسم أول الغردقة,hurghada-1-eg3101,27.129,33.244,EG31,Red Sea,البحر الأحمر
+EG3108,Hurghada 2,قسم ثان الغردقة,hurghada-2-eg3108,27.745,33.08,EG31,Red Sea,البحر الأحمر
+EG1808,Hush Isa,مركز حوش عيسى,hush-isa-eg1808,30.891,30.346,EG18,Behera,البحيرة
+EG2108,Hwamdeia,قسم الحوامدية,hwamdeia-eg2108,29.902,31.253,EG21,Giza,الجيزة
+EG1816,Idku,مركز إدكو,idku-eg1816,31.298,30.325,EG18,Behera,البحيرة
+EG2101,Imbaba,قسم امبابه,imbaba-eg2101,30.083,31.21,EG21,Giza,الجيزة
+EG2113,Imbaba,مركز إمبابة,imbaba-eg2113,30.22,30.963,EG21,Giza,الجيزة
+EG1904,Ismailiyya,مركز الاسماعيلية,ismailiyya-eg1904,30.426,32.183,EG19,Ismailia,الإسماعيلية
+EG1901,Ismailiyya 1,قسم أول الاسماعيلية,ismailiyya-1-eg1901,30.606,32.311,EG19,Ismailia,الإسماعيلية
+EG1902,Ismailiyya 2,قسم ثان الاسماعيلية,ismailiyya-2-eg1902,30.614,32.26,EG19,Ismailia,الإسماعيلية
+EG1903,Ismailiyya 3,قسم ثالث الاسماعيلية,ismailiyya-3-eg1903,30.612,32.291,EG19,Ismailia,الإسماعيلية
+EG2705,Isna,مركز إسنا,isna-eg2705,25.365,32.52,EG27,Qena,قنا
+EG1807,Itay Al-Barud,مركز إيتاى البارود,itay-al-barud-eg1807,30.886,30.656,EG18,Behera,البحيرة
+EG1811,Kafr Al-Dawwar,قسم كفرالدوار,kafr-al-dawwar-eg1811,31.137,30.133,EG18,Behera,البحيرة
+EG1812,Kafr Al-Dawwar,مركز كفر الدوار,kafr-al-dawwar-eg1812,31.129,30.038,EG18,Behera,البحيرة
+EG1501,Kafr Al-Shaykh,قسم كفر الشيخ,kafr-al-shaykh-eg1501,31.119,30.941,EG15,Kafr El-Shikh,كفر الشيخ
+EG1502,Kafr Al-Shaykh,مركز كفر الشيخ,kafr-al-shaykh-eg1502,31.2,31.016,EG15,Kafr El-Shikh,كفر الشيخ
+EG1612,Kafr Al-Zayyat,مركز كفر الزيات,kafr-al-zayyat-eg1612,30.807,30.835,EG16,Gharbia,الغربية
+EG1104,Kafr Sad,مركز كفر سعد,kafr-sad-eg1104,31.359,31.603,EG11,Damietta,دمياط
+EG1313,Kafr Saqr,مركز كفر صقر,kafr-saqr-eg1313,30.837,31.675,EG13,Sharkia,الشرقية
+EG1411,Kafr Shukr,مركز كفر شكر,kafr-shukr-eg1411,30.554,31.275,EG14,Kalyoubia,القليوبية
+EG2120,Kardasa,مركز كرداسة,kardasa-eg2120,30.051,31.134,EG21,Giza,الجيزة
+EG0208,Karmuz,قسم كرموز,karmuz-eg0208,31.179,29.904,EG02,Alexandria,الاسكندرية
+EG2616,Kawther,قسم الكوثر,kawther-eg2616,26.555,31.722,EG26,Suhag,سوهاج
+EG2401,Kesm Al-minya,قسم المنيا,kesm-al-minya-eg2401,28.095,30.744,EG24,Menia,المنيا
+EG2501,Kesm Awal Assuit,قسم أول أسيوط,kesm-awal-assuit-eg2501,27.186,31.154,EG25,Assiut,أسيوط
+EG2411,Kesm Mallawi,قسم ملوى,kesm-mallawi-eg2411,27.729,30.837,EG24,Menia,المنيا
+EG2615,Kesm Tahta,قسم طهطا,kesm-tahta-eg2615,26.767,31.492,EG26,Suhag,سوهاج
+EG0217,Kesm than Al Raml,قسم ثان الرمل,kesm-than-al-raml-eg0217,31.211,29.994,EG02,Alexandria,الاسكندرية
+EG2502,Kesm Than Assuit,قسم ثان أسيوط,kesm-than-assuit-eg2502,27.193,31.179,EG25,Assiut,أسيوط
+EG1412,Khsos,قسم الخصوص,khsos-eg1412,30.157,31.318,EG14,Kalyoubia,القليوبية
+EG1813,Kum Hamada,مركز كوم حمادة,kum-hamada-eg1813,30.654,30.774,EG18,Behera,البحيرة
+EG2804,Kum Umbu,مركز كوم امبو,kum-umbu-eg2804,24.48,32.947,EG28,Aswan,أسوان
+EG2901,Luxor,قسم الأقصر,luxor-eg2901,25.707,32.67,EG29,Luxor,مدينة الأقصر
+EG2902,Luxor,مركز الأقصر,luxor-eg2902,25.685,32.588,EG29,Luxor,مدينة الأقصر
+EG0104,Maadi,قسم المعادي,maadi-eg0104,29.963,31.368,EG01,Cairo,القاهرة
+EG0127,Madinat Nasr-2,قسم ثانمدينةنصر,madinat-nasr-2-eg0127,30.048,31.309,EG01,Cairo,القاهرة
+EG1219,Mahalet Demna,مركز محلة دمنة,mahalet-demna-eg1219,31.09,31.513,EG12,Dakahlia,الدقهلية
+EG2512,Manfalut,مركز منفلوط,manfalut-eg2512,27.294,30.951,EG25,Assiut,أسيوط
+EG1207,Manzala,مركز المنزلة,manzala-eg1207,31.153,31.958,EG12,Dakahlia,الدقهلية
+EG0136,Marg,قسم المرج,marg-eg0136,30.156,31.346,EG01,Cairo,القاهرة
+EG2404,Markz Abu Qurqas,مركز ابو قرقاص,markz-abu-qurqas-eg2404,27.939,30.77,EG24,Menia,المنيا
+EG2405,Markz Al Idwa,مركز العدوة,markz-al-idwa-eg2405,28.696,30.74,EG24,Menia,المنيا
+EG2402,Markz Al Minya,مركز المنيا,markz-al-minya-eg2402,28.101,30.641,EG24,Menia,المنيا
+EG2406,Markz Bani Mazar,مركز بنى مزار,markz-bani-mazar-eg2406,28.518,30.731,EG24,Menia,المنيا
+EG2407,Markz Dir Mawas,مركز دير مواس,markz-dir-mawas-eg2407,27.655,30.79,EG24,Menia,المنيا
+EG2410,Markz Maghagha,مركز مغاغة,markz-maghagha-eg2410,28.641,30.794,EG24,Menia,المنيا
+EG2412,Markz Mallawi,مركز ملوى,markz-mallawi-eg2412,27.775,30.801,EG24,Menia,المنيا
+EG2409,Markz Matay,مركز مطاى,markz-matay-eg2409,28.431,30.71,EG24,Menia,المنيا
+EG2408,Markz Samalut,مركز سمالوط,markz-samalut-eg2408,28.285,30.629,EG24,Menia,المنيا
+EG3104,Marsa Alam,قسم مرسى علم,marsa-alam-eg3104,24.707,34.286,EG31,Red Sea,البحر الأحمر
+EG3301,Marsa Matruh,قسم مرسى مطروح,marsa-matruh-eg3301,30.022,26.997,EG33,Matrouh,مطروح
+EG1316,Mashtul Al-Suq,مركز مشتول السوق,mashtul-al-suq-eg1316,30.361,31.383,EG13,Sharkia,الشرقية
+EG1206,Matariyya,مركز المطرية,matariyya-eg1206,31.191,32.004,EG12,Dakahlia,الدقهلية
+EG0211,Mina Al-Basal,قسم مينا البصل,mina-al-basal-eg0211,31.167,29.88,EG02,Alexandria,الاسكندرية
+EG0134,Minshat Nasir,منشأةناصر,minshat-nasir-eg0134,30.043,31.284,EG01,Cairo,القاهرة
+EG1709,Minuf,مركز منوف,minuf-eg1709,30.46,30.881,EG17,Menoufia,المنوفية
+EG1712,Minuf City,قسم مدينة منوف,minuf-city-eg1712,30.462,30.931,EG17,Menoufia,المنوفية
+EG1214,Minya Al-Nasr,مركز منية النصر,minya-al-nasr-eg1214,31.154,31.707,EG12,Dakahlia,الدقهلية
+EG1314,Minya al-Qamh,مركز منيا القمح,minya-al-qamh-eg1314,30.507,31.369,EG13,Sharkia,الشرقية
+EG0128,Misr al-Gadida,قسم مصرالجديدة,misr-al-gadida-eg0128,30.091,31.327,EG01,Cairo,القاهرة
+EG0106,Misr Al-Qadima,مصرالقديمة,misr-al-qadima-eg0106,30.006,31.242,EG01,Cairo,القاهرة
+EG1212,Mit Ghamr,قسم ميت غمر,mit-ghamr-eg1212,30.713,31.276,EG12,Dakahlia,الدقهلية
+EG1213,Mit Ghamr,مركز ميت غمر,mit-ghamr-eg1213,30.708,31.338,EG12,Dakahlia,الدقهلية
+EG1217,MIt Salsil,مركز ميت سلسيل,mit-salsil-eg1217,31.233,31.792,EG12,Dakahlia,الدقهلية
+EG1510,Mitubas,مركز مطوبس,mitubas-eg1510,31.383,30.47,EG15,Kafr El-Shikh,كفر الشيخ
+EG0309,Mubark-Sharq Tafrea,قسم مبارك - شرق التفريعة,mubark-sharq-tafrea-eg0309,31.067,32.43,EG03,Port Said,بورسعيد
+EG0205,Muharam Bik,قسم محرم بك,muharam-bik-eg0205,31.184,29.939,EG02,Alexandria,الاسكندرية
+EG0201,Muntazah,قسم المنتزة,muntazah-eg0201,31.264,30.03,EG02,Alexandria,الاسكندرية
+EG0110,Muski,قسم الموسكي,muski-eg0110,30.05,31.252,EG01,Cairo,القاهرة
+EG2708,Nag Hammadi,مركز نجع حمادى,nag-hammadi-eg2708,26.085,32.297,EG27,Qena,قنا
+EG3407,Nakhl,قسم نخل,nakhl-eg3407,29.909,34.024,EG34,North Sinai,شمال سيناء
+EG2709,Naqada,مركز نقادة,naqada-eg2709,25.89,32.711,EG27,Qena,قنا
+EG2209,Nasir,مركز ناصر,nasir-eg2209,29.187,31.078,EG22,Beni Suef,بنى سويف
+EG2805,Nasr,مركز نصر,nasr-eg2805,24.373,32.932,EG28,Aswan,أسوان
+EG0126,Nasr City,قسم أول مدينة نصر,nasr-city-eg0126,30.032,31.369,EG01,Cairo,القاهرة
+EG1221,Nebro,مركز نبروة,nebro-eg1221,31.129,31.297,EG12,Dakahlia,الدقهلية
+EG0137,New Cairo-1,قسم أول القاهرة الجديدة,new-cairo-1-eg0137,30.024,31.55,EG01,Cairo,القاهرة
+EG0138,New Cairo-2,قسم ثان القاهرة الجديدة,new-cairo-2-eg0138,30.074,31.582,EG01,Cairo,القاهرة
+EG0139,New Cairo-3,قسم ثالث القاهرة الجديدة,new-cairo-3-eg0139,29.978,31.456,EG01,Cairo,القاهرة
+EG2403,New Minya,مدينة المنيا الجديدة,new-minya-eg2403,28.11,30.788,EG24,Menia,المنيا
+EG0218,North Coast,الساحل الشمالى,north-coast-eg0218,30.935,29.475,EG02,Alexandria,الاسكندرية
+EG3308,North Coast,قسم الساحل الشمالى-جزء,north-coast-eg3308,30.861,29.281,EG33,Matrouh,مطروح
+EG1817,Nubariyya West,قسم غرب النوبارية,nubariyya-west-eg1817,30.425,29.897,EG18,Behera,البحيرة
+EG3507,Nuweiba,قسم نويبع,nuweiba-eg3507,29.314,34.312,EG35,South Sinai,جنوب سيناء
+EG0129,Nuzha,قسم النزهة,nuzha-eg0129,30.115,31.389,EG01,Cairo,القاهرة
+EG3204,Paris Paris,مركز باريس,paris-paris-eg3204,22.737,30.412,EG32,New Valley,الوادى الجديد
+EG1108,Police Department Port of Damietta,إداره شرطه ميناء دمياط الجديد,police-department-port-of-damietta-eg1108,31.466,31.778,EG11,Damietta,دمياط
+EG0312,Police Department Port Said Port,إدارة شرطة ميناء بورسعيد,police-department-port-said-port-eg0312,31.254,32.301,EG03,Port Said,بورسعيد
+EG0215,Port Alexandria Police Department,اداره شرطه ميناء الأسكندريه,port-alexandria-police-department-eg0215,31.18,29.876,EG02,Alexandria,الاسكندرية
+EG0304,Port Fuad,قسم بور فؤاد,port-fuad-eg0304,31.236,32.33,EG03,Port Said,بورسعيد
+EG0308,Port Fuad 2,قسم ثان بور فؤاد,port-fuad-2-eg0308,31.17,32.318,EG03,Port Said,بورسعيد
+EG0406,Port Suez Police Department,إدارة شرطة ميناء السويس,port-suez-police-department-eg0406,29.882,32.619,EG04,Suez,السويس
+EG1414,Qaha,قسم قها,qaha-eg1414,30.293,31.215,EG14,Kalyoubia,القليوبية
+EG1409,Qalyub,قسم قليوب,qalyub-eg1409,30.18,31.216,EG14,Kalyoubia,القليوبية
+EG1410,Qalyub,مركز قليوب,qalyub-eg1410,30.207,31.214,EG14,Kalyoubia,القليوبية
+EG1404,Qanatir Al-Khayriyya,مركز القناطر الخيرية,qanatir-al-khayriyya-eg1404,30.214,31.135,EG14,Kalyoubia,القليوبية
+EG1906,"Qantara Gharb, al-",مركز القنطرة,qantara-gharb-al-eg1906,30.742,32.245,EG19,Ismailia,الإسماعيلية
+EG1908,"Qantara Sharq, al-",قسم القنطرة شرق,qantara-sharq-al-eg1908,30.603,32.55,EG19,Ismailia,الإسماعيلية
+EG3411,Qasima,قسم القسيمة,qasima-eg3411,30.464,34.301,EG34,North Sinai,شمال سيناء
+EG0111,Qasr Al-Nile,قسم قصر النيل,qasr-al-nile-eg0111,30.043,31.235,EG01,Cairo,القاهرة
+EG2711,Qift,مركز قفط,qift-eg2711,25.998,32.827,EG27,Qena,قنا
+EG1509,Qillin,مركز قلين,qillin-eg1509,31.085,30.817,EG15,Kafr El-Shikh,كفر الشيخ
+EG2701,Qina,قسم قنا,qina-eg2701,26.165,32.712,EG27,Qena,قنا
+EG2702,Qina,مركز قنا,qina-eg2702,26.163,32.578,EG27,Qena,قنا
+EG2713,Qina City,مدينة قنا الجديدة,qina-city-eg2713,26.173,32.761,EG27,Qena,قنا
+EG1320,Qurin,قسم القرين,qurin-eg1320,30.611,31.742,EG13,Sharkia,الشرقية
+EG2707,Qus,مركز قوص,qus-eg2707,25.857,32.789,EG27,Qena,قنا
+EG3102,Qusir,قسم القصير,qusir-eg3102,25.957,33.951,EG31,Red Sea,البحر الأحمر
+EG1611,Qutur,مركز قطور,qutur-eg1611,30.971,30.97,EG16,Gharbia,الغربية
+EG1708,Quwisna,مركز قويسنا,quwisna-eg1708,30.56,31.163,EG17,Menoufia,المنوفية
+EG3409,Rafah,قسم رفح,rafah-eg3409,31.087,34.227,EG34,North Sinai,شمال سيناء
+EG1106,Ras al-Bar,قسم رأس البر,ras-al-bar-eg1106,31.51,31.83,EG11,Damietta,دمياط
+EG3105,Ras Gharib,قسم رأس غارب,ras-gharib-eg3105,28.506,32.377,EG31,Red Sea,البحر الأحمر
+EG3502,Ras Sidr,قسم رأس سدر,ras-sidr-eg3502,29.599,33.317,EG35,South Sinai,جنوب سيناء
+EG1809,Rashid,مركز رشيد,rashid-eg1809,31.379,30.375,EG18,Behera,البحيرة
+EG1512,Riyad,مركز الرياض,riyad-eg1512,31.321,30.92,EG15,Kafr El-Shikh,كفر الشيخ
+EG0120,Rud Al-Farag,قسم روضالفرج,rud-al-farag-eg0120,30.075,31.238,EG01,Cairo,القاهرة
+EG3410,Rummana,قسم رمانة,rummana-eg3410,30.957,32.699,EG34,North Sinai,شمال سيناء
+EG1711,Sadat City,مركز السادات,sadat-city-eg1711,30.358,30.661,EG17,Menoufia,المنوفية
+EG2111,Saf,مركز الصف,saf-eg2111,29.62,31.305,EG21,Giza,الجيزة
+EG3103,Safaga,قسم سفاجا,safaga-eg3103,26.732,33.46,EG31,Red Sea,البحر الأحمر
+EG2507,Sahil Silim,مركز ساحل سليم,sahil-silim-eg2507,27.093,31.349,EG25,Assiut,أسيوط
+EG3303,Salloum,قسم السلوم,salloum-eg3303,30.646,25.255,EG33,Matrouh,مطروح
+EG1610,Samannud,مركز سمنود,samannud-eg1610,30.95,31.221,EG16,Gharbia,الغربية
+EG3504,Sant Katrin,قسم سانت كاترين,sant-katrin-eg3504,28.66,34.052,EG35,South Sinai,جنوب سيناء
+EG1604,Santa,مركز السنطة,santa-eg1604,30.773,31.119,EG16,Gharbia,الغربية
+EG2612,Saqulta,مركز ساقلته,saqulta-eg2612,26.692,31.663,EG26,Suhag,سوهاج
+EG0107,Sayyida Zainab,قسم السيدة زينب,sayyida-zainab-eg0107,30.03,31.242,EG01,Cairo,القاهرة
+EG3106,Shallatin,قسم شلاتين,shallatin-eg3106,23.079,34.574,EG31,Red Sea,البحر الأحمر
+EG3505,Sharm el-Sheikh,قسم شرم الشيخ,sharm-el-sheikh-eg3505,28.08,34.203,EG35,South Sinai,جنوب سيناء
+EG2119,Shaykh Zayed,قسم الشيخ زايد,shaykh-zayed-eg2119,30.049,30.978,EG21,Giza,الجيزة
+EG3408,Shaykh Zuwayd,قسم الشيخ زويد,shaykh-zuwayd-eg3408,30.918,33.971,EG34,North Sinai,شمال سيناء
+EG1701,Shibin al-Kum,قسم شبين الكوم,shibin-al-kum-eg1701,30.556,31.0,EG17,Menoufia,المنوفية
+EG1702,Shibin al-Kum,مركز شبين الكوم,shibin-al-kum-eg1702,30.561,30.954,EG17,Menoufia,المنوفية
+EG1405,Shibin al-Qanatir,مركز شبين القناطر,shibin-al-qanatir-eg1405,30.296,31.307,EG14,Kalyoubia,القليوبية
+EG1210,Shirbin,مركز شربين,shirbin-eg1210,31.261,31.576,EG12,Dakahlia,الدقهلية
+EG0140,Shroq,قسم الشروق,shroq-eg0140,30.133,31.547,EG01,Cairo,القاهرة
+EG0119,Shubra,قسم شبرا,shubra-eg0119,30.072,31.25,EG01,Cairo,القاهرة
+EG1406,Shubra Al-Khayma 1,قسم أول شبرا الخيمة,shubra-al-khayma-1-eg1406,30.132,31.248,EG14,Kalyoubia,القليوبية
+EG1407,Shubra Al-Khayma 2,قسم ثان شبرا الخيمة,shubra-al-khayma-2-eg1407,30.135,31.285,EG14,Kalyoubia,القليوبية
+EG1810,Shubra Khit,مركز شبراخيت,shubra-khit-eg1810,31.003,30.679,EG18,Behera,البحيرة
+EG2511,Sidfa,مركز صدفا,sidfa-eg2511,26.943,31.38,EG25,Assiut,أسيوط
+EG3305,Sidi Barani,قسم سيدى برانى,sidi-barani-eg3305,30.656,25.886,EG33,Matrouh,مطروح
+EG0203,Sidi Gabir,قسم سيدى جابر,sidi-gabir-eg0203,31.216,29.949,EG02,Alexandria,الاسكندرية
+EG1507,Sidi Salim,مركز سيدى سالم,sidi-salim-eg1507,31.31,30.738,EG15,Kafr El-Shikh,كفر الشيخ
+EG1205,Sinbillawin,مركز السنبلاوين,sinbillawin-eg1205,30.883,31.513,EG12,Dakahlia,الدقهلية
+EG2305,Sinuras,مركز سنورس,sinuras-eg2305,29.441,30.815,EG23,Fayoum,الفيوم
+EG1710,Sirs Al-Layyana City,قسم مدينة سرس الليانة,sirs-al-layyana-city-eg1710,30.445,30.969,EG17,Menoufia,المنوفية
+EG3306,Siwa,مركز سيوة,siwa-eg3306,28.703,25.589,EG33,Matrouh,مطروح
+EG0401,Suez,قسم السويس,suez-eg0401,29.961,32.569,EG04,Suez,السويس
+EG2601,Suhag,قسم اول سوهاج,suhag-eg2601,26.547,31.693,EG26,Suhag,سوهاج
+EG2603,Suhag,مركز سوهاج,suhag-eg2603,26.547,31.655,EG26,Suhag,سوهاج
+EG2602,Suhag-2,قسم ثان سوهاج,suhag-2-eg2602,26.543,31.703,EG26,Suhag,سوهاج
+EG2619,Suhag City,مدينة سوهاج الجديدة,suhag-city-eg2619,26.485,31.649,EG26,Suhag,سوهاج
+EG2208,Sumusta,مركز سمسطا,sumusta-eg2208,28.951,30.866,EG22,Beni Suef,بنى سويف
+EG3508,Taba,قسم طابا,taba-eg3508,29.501,34.84,EG35,South Sinai,جنوب سيناء
+EG2614,Tahta,مركز طهطا,tahta-eg2614,26.785,31.42,EG26,Suhag,سوهاج
+EG1905,"Tal al-Kabir, al-",مركز التل الكبير,tal-al-kabir-al-eg1905,30.418,31.933,EG19,Ismailia,الإسماعيلية
+EG1707,Tala,مركز تلا,tala-eg1707,30.67,30.946,EG17,Menoufia,المنوفية
+EG1211,Talkha,مركز طلخا,talkha-eg1211,31.109,31.383,EG12,Dakahlia,الدقهلية
+EG2613,Tama,مركز طما,tama-eg2613,26.874,31.422,EG26,Suhag,سوهاج
+EG1216,Tamy Al-Amdid,مركز تمى الأمديد,tamy-al-amdid-eg1216,30.947,31.594,EG12,Dakahlia,الدقهلية
+EG2306,Tamya,مركز طامية,tamya-eg2306,29.467,30.982,EG23,Fayoum,الفيوم
+EG1603,Tanta,مركز طنطا,tanta-eg1603,30.809,30.932,EG16,Gharbia,الغربية
+EG1601,Tanta 1,قسم أول طنطا,tanta-1-eg1601,30.795,31.014,EG16,Gharbia,الغربية
+EG1602,Tanta 2,قسم ثان طنطا,tanta-2-eg1602,30.786,30.989,EG16,Gharbia,الغربية
+EG2903,Tiba police station,مركز شرطة طيبة,tiba-police-station-eg2903,25.738,32.703,EG29,Luxor,مدينة الأقصر
+EG1408,Tukh,مركز طوخ,tukh-eg1408,30.344,31.19,EG14,Kalyoubia,القليوبية
+EG0105,Tura,قسم طره,tura-eg0105,29.939,31.38,EG01,Cairo,القاهرة
+EG2809,Tushaka,مدينة توشكى الجديدة,tushaka-eg2809,22.856,31.661,EG28,Aswan,أسوان
+EG2118,Umraniyya,قسم العمرانية,umraniyya-eg2118,29.993,31.177,EG21,Giza,الجيزة
+EG1814,Wadi Al-NatrUn,مركز وادى النطرون,wadi-al-natrun-eg1814,30.43,30.313,EG18,Behera,البحيرة
+EG2117,Waraq,قسم الوراق,waraq-eg2117,30.097,31.189,EG21,Giza,الجيزة
+EG2307,Yousef El sadeq,مركز يوسف الصديق,yousef-el-sadeq-eg2307,29.353,30.586,EG23,Fayoum,الفيوم
+EG0133,Zamalik,قسم الزمالك,zamalik-eg0133,30.056,31.223,EG01,Cairo,القاهرة
+EG1303,Zaqaziq,مركز الزقازيق,zaqaziq-eg1303,30.587,31.581,EG13,Sharkia,الشرقية
+EG1301,Zaqaziq 1,قسم اول الزقازيق,zaqaziq-1-eg1301,30.585,31.513,EG13,Sharkia,الشرقية
+EG1302,Zaqaziq 2,قسم ثان الزقازيق,zaqaziq-2-eg1302,30.601,31.519,EG13,Sharkia,الشرقية
+EG1107,Zarqa,مركز الزرقا,zarqa-eg1107,31.209,31.649,EG11,Damietta,دمياط
+EG0131,Zawiyya Al-Hamra,قسم الزاويةالحمراء,zawiyya-al-hamra-eg0131,30.098,31.27,EG01,Cairo,القاهرة
+EG0100,Zemam Out,خارج الزمام,zemam-out-eg0100,29.972,31.799,EG01,Cairo,القاهرة
+EG0200,Zemam Out,خارج الزمام,zemam-out-eg0200,30.537,29.721,EG02,Alexandria,الاسكندرية
+EG1300,Zemam Out,خارج الزمام,zemam-out-eg1300,30.327,31.719,EG13,Sharkia,الشرقية
+EG1400,Zemam Out,خارج الزمام,zemam-out-eg1400,30.24,31.514,EG14,Kalyoubia,القليوبية
+EG1800,Zemam Out,خارج الزمام,zemam-out-eg1800,30.26,30.306,EG18,Behera,البحيرة
+EG2100,Zemam Out,خارج الزمام,zemam-out-eg2100,28.935,29.392,EG21,Giza,الجيزة
+EG2200,Zemam Out,خارج الزمام,zemam-out-eg2200,28.723,31.341,EG22,Beni Suef,بنى سويف
+EG2300,Zemam Out,خارج الزمام,zemam-out-eg2300,29.347,30.344,EG23,Fayoum,الفيوم
+EG2400,Zemam Out,خارج الزمام,zemam-out-eg2400,28.16,31.623,EG24,Menia,المنيا
+EG2800,Zemam Out,خارج الزمام,zemam-out-eg2800,23.594,32.263,EG28,Aswan,أسوان
+EG2900,Zemam Out,خارج الزمام,zemam-out-eg2900,25.634,32.716,EG29,Luxor,مدينة الأقصر
+EG2500,Zemam Out,صحراء أسيوط,zemam-out-eg2500,27.358,31.799,EG25,Assiut,أسيوط
+EG2600,Zemam Out,صحراء سوهاج,zemam-out-eg2600,26.727,32.193,EG26,Suhag,سوهاج
+EG2700,Zemam Out,صحراء قنا,zemam-out-eg2700,25.966,33.191,EG27,Qena,قنا
+EG1609,Zifta,مركز زفتى,zifta-eg1609,30.728,31.215,EG16,Gharbia,الغربية

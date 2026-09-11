@@ -1,0 +1,366 @@
+,name_en,gov_en,school_count,hospital_count,supermarket_count,park_count,metro_station_count,cafe_restaurant_count
+0,10 Ramadan 1,Sharkia,,,,,,1.0
+1,10 Ramadan 2,Sharkia,,1.0,,,,1.0
+2,15 Mayu,Cairo,5.0,2.0,2.0,,,4.0
+3,6 October-1,Giza,17.0,30.0,14.0,2.0,,113.0
+4,6 October-2,Giza,17.0,28.0,18.0,1.0,,42.0
+5,A-Dakhla Oasis,New Valley,,,,,,
+6,A L Labban,Alexandria,47.0,103.0,70.0,4.0,5.0,261.0
+7,Abdin,Cairo,87.0,203.625,93.0,8.0,3.0,41.0
+8,Abnub,Assiut,,,,,,
+9,Abour,Kalyoubia,8.0,13.0,8.0,,,20.0
+10,Abshaway,Fayoum,1.0,4.0,,,,4.0
+11,Abu-l-Matamir,Behera,,,,,,
+12,Abu Hammad,Sharkia,,3.0,,,,1.0
+13,Abu Hummus,Behera,1.0,10.0,3.0,,1.0,12.0
+14,Abu Kabir,Sharkia,2.0,,1.0,,,4.0
+15,Abu Radis,South Sinai,,,,,,
+16,Abu Simbel,Aswan,,,,,,
+17,Abu Tig,Assiut,,,,,,
+18,Abu Tisht,Qena,2.0,3.0,,,,5.0
+19,Adfu,Aswan,,,,,,
+20,Aga,Dakahlia,,,2.0,,,
+21,Ahnasya,Beni Suef,1.0,1.0,,,,1.0
+22,Ain Shams,Cairo,87.0,143.0,71.0,2.0,2.0,195.0
+23,Akhmim,Suhag,17.0,56.0,9.0,1.0,2.0,29.0
+24,Akhmim City,Suhag,,,,,,
+25,Al- Badari,Assiut,,1.0,,,,
+26,Al-Aguza,Giza,61.0,203.625,88.0,6.0,,41.0
+27,Al-Ahram,Giza,42.0,76.0,33.0,2.0,,175.0
+28,Al-Arab,Port Said,43.0,95.0,62.0,8.0,1.0,265.0
+29,Al-Arbiin,Suez,20.0,44.0,27.0,,1.0,71.0
+30,Al-Bagur,Menoufia,2.0,2.0,2.0,,,9.0
+31,Al-Balyana,Suhag,,3.0,1.0,,,1.0
+32,Al-Dawahy,Port Said,19.0,19.0,21.0,1.0,1.0,44.0
+33,Al-Dilingat,Behera,,,,,,
+34,Al-Ganayin,Suez,,,,,,
+35,Al-Ganoub,Port Said,,,,,,
+36,Al-Ganoub 2,Port Said,,,,,,
+37,Al-Ghanayem,Assiut,,,,,,
+38,Al-Hammam,Matrouh,,,,,,
+39,Al-Hasna,North Sinai,,,,,,
+40,Al-Husayniya,Sharkia,,,,,,
+41,Al-Kharga Oasis,New Valley,,,,,,
+42,Al-Mahmudiyya,Behera,,,,,,
+43,Al-Manasra,Port Said,,,,,,
+44,Al-Maragha,Suhag,,,,,,
+45,Al-Minshat,Suhag,1.0,,,,,
+46,Al-Munakh,Port Said,48.0,83.0,56.0,6.0,1.0,200.0
+47,Al-Qanayat,Sharkia,2.0,,,,,
+48,Al-Qusia,Assiut,,,,,,
+49,Al-Rahmaniyya,Behera,,,,,,
+50,Al-Salhiyya,Sharkia,,,,,,
+51,Al-Sharq,Port Said,32.0,81.0,43.0,8.0,1.0,265.0
+52,Al-Shuhada,Menoufia,,,,,,
+53,Al-Tur,South Sinai,,,,,,
+54,Al-Zohour,Port Said,26.0,29.0,16.0,1.0,,71.0
+55,Al Amreia,Alexandria,,,,,,2.0
+56,Al Attarin,Alexandria,87.0,203.625,92.0,9.0,5.0,41.0
+57,Al Azbakiyya,Cairo,87.0,203.625,78.0,5.0,6.0,41.0
+58,Al Darb al-Ahmar,Cairo,36.0,86.0,60.0,7.0,,201.0
+59,Al Dikhila,Alexandria,12.0,12.0,7.0,,,19.0
+60,Al Farafra Oasis,New Valley,,,,,,
+61,Al Fashn,Beni Suef,,1.0,,,,
+62,Al Gumruk,Alexandria,22.0,45.0,34.0,5.0,,122.0
+63,Al Hamul,Kafr El-Shikh,,,,,,
+64,Al Khalifa,Cairo,37.0,58.0,31.0,2.0,,109.0
+65,Al Khanka,Kalyoubia,9.0,9.0,3.0,,1.0,17.0
+66,Al Manshiyya,Alexandria,47.0,126.0,71.0,5.0,5.0,265.0
+67,Al Matariyya,Cairo,49.0,69.0,41.0,1.0,2.0,114.0
+68,Al Raml,Alexandria,87.0,130.0,67.0,2.0,3.0,135.0
+69,Al Sahil,Cairo,53.0,108.0,41.0,5.0,,191.0
+70,Al Salam,Cairo,10.0,15.0,3.0,1.0,,34.0
+71,Al Sharabiyya,Cairo,58.0,123.0,47.0,3.0,3.0,119.0
+72,Al Tibbin,Cairo,,,,,,
+73,Al Usayrat,Suhag,2.0,,,,,
+74,Al Waqf,Qena,,,,,,
+75,Al Wasta,Beni Suef,,,,,,
+76,Al Wayli,Cairo,56.0,132.0,37.0,2.0,3.0,136.0
+77,Al Zahir,Cairo,62.0,115.0,50.0,4.0,3.0,161.0
+78,Al Zaytun,Cairo,73.0,171.0,87.0,6.0,2.0,174.0
+79,Alamn,Matrouh,,,,,,
+80,Alfath,Assiut,,,,,,
+81,Armant,Qena,,2.0,1.0,,,
+82,Ashmun,Menoufia,1.0,,,,,3.0
+83,Assuit,Assiut,,2.0,,,,
+84,Assuit City,Assiut,1.0,,,,,
+85,Aswan,Aswan,7.0,6.0,2.0,,,5.0
+86,Aswan,Aswan,1.0,1.0,,,,
+87,Aswan City,Aswan,,,,,,
+88,Ataqa,Suez,,,,,,
+89,Atfeh,Giza,,1.0,,,,
+90,Atsa,Fayoum,,,,,,
+91,Auseem,Giza,2.0,8.0,4.0,,,5.0
+92,Awlad Saqr,Sharkia,,,,,,
+93,Ayat,Giza,2.0,,,,,2.0
+94,Bab Al-Shariyya,Cairo,64.0,130.0,76.0,3.0,6.0,265.0
+95,Bab Sharqi,Alexandria,87.0,203.625,79.0,6.0,1.0,41.0
+96,Badr,Cairo,5.0,12.0,2.0,,,13.0
+97,Badr,Behera,,,,,,
+98,Badrashain,Giza,2.0,2.0,,,,
+99,Bahariya Oasis,Giza,,,,,,
+100,Banha,Kalyoubia,34.0,109.0,34.0,2.0,2.0,177.0
+101,Banha,Kalyoubia,1.0,,1.0,,,
+102,Bani Swayf,Beni Suef,30.0,89.0,23.0,5.0,2.0,130.0
+103,Bani Swayf,Beni Suef,,,,,,1.0
+104,Bani Swayf City,Beni Suef,,,,,,
+105,Bany Abeed,Dakahlia,2.0,2.0,,,,
+106,Basatin,Cairo,44.0,38.0,20.0,2.0,,126.0
+107,Basyun,Gharbia,,,,,,
+108,Biba,Beni Suef,,,,,,
+109,Bilbis,Sharkia,,,,,,
+110,Bilqas,Dakahlia,1.0,2.0,,,,
+111,Bir Al-Abd,North Sinai,,,,,,
+112,Birkat Al-Sab,Menoufia,,1.0,,,,
+113,Biyalu,Kafr El-Shikh,,,,,,
+114,Bulaq,Cairo,85.0,200.0,83.0,10.0,6.0,41.0
+115,Bulaq Al-DakrUr,Giza,51.0,93.0,38.0,,,131.0
+116,Burg al-Arab,Alexandria,,,,,,
+117,Burg Al-Arab City,Alexandria,,,,,,
+118,Burullus,Kafr El-Shikh,,,,,,
+119,Daba,Matrouh,,,,,,
+120,Dahab,South Sinai,,,,,,
+121,Damanhur,Behera,37.0,89.0,42.0,4.0,,155.0
+122,Damanhur,Behera,,,,,,
+123,Dar al-Salam,Suhag,,1.0,,,,2.0
+124,Daraw,Aswan,,,,,,
+125,Dayrut,Assiut,,,,,,
+126,Dikirnis,Dakahlia,,,,,,
+127,Dishna,Qena,,,,,,
+128,Disuq,Kafr El-Shikh,8.0,28.0,8.0,1.0,1.0,20.0
+129,Disuq,Kafr El-Shikh,,,,,,
+130,Dumyat,Damietta,,,,,,
+131,Dumyat 1,Damietta,18.0,59.0,30.0,1.0,1.0,102.0
+132,Dumyat 2,Damietta,20.0,75.0,36.0,,1.0,91.0
+133,Dumyat Al-Gadida,Damietta,,2.0,2.0,,,1.0
+134,DuqqI,Giza,87.0,203.625,90.0,8.0,,41.0
+135,Dyarb Nigm,Sharkia,7.0,13.0,3.0,,,20.0
+136,E Mansora 2,Dakahlia,5.0,22.0,11.0,,,27.0
+137,El-Ibrahimiya,Sharkia,2.0,8.0,1.0,1.0,,8.0
+138,El Arish 1,North Sinai,1.0,2.0,,,,4.0
+139,El Arish 2,North Sinai,,,,,,
+140,El Arish 3,North Sinai,,,,,,
+141,El Arish 4,North Sinai,,,,,,
+142,El Mahalla El Kobra,Gharbia,,,1.0,,,2.0
+143,El Mahalla El Kobra 1,Gharbia,37.0,90.0,40.0,1.0,2.0,162.0
+144,El Mahalla El Kobra 2,Gharbia,31.0,75.0,27.0,1.0,2.0,115.0
+145,El Mansora,Dakahlia,,,,,,
+146,El Mansora 1,Dakahlia,57.0,122.0,72.0,6.0,,199.0
+147,Faqus,Sharkia,12.0,35.0,6.0,,1.0,44.0
+148,Faqus,Sharkia,,,,,,
+149,Fariskur,Damietta,,,,,,2.0
+150,Farshut,Qena,1.0,,2.0,,1.0,
+151,Fayid,Ismailia,,,,,1.0,
+152,Faysal,Suez,,,,,,
+153,Fayyum,Fayoum,29.0,84.0,19.0,2.0,1.0,116.0
+154,Fayyum,Fayoum,,,,,,
+155,Fayyum City,Fayoum,,,,,,
+156,Fuwwa,Kafr El-Shikh,,,,,,
+157,Gamaliyya,Cairo,46.0,86.0,61.0,6.0,3.0,191.0
+158,Gamaliyya,Dakahlia,,,,,,
+159,Gamsa,Dakahlia,,5.0,6.0,,,38.0
+160,Girga,Suhag,13.0,18.0,12.0,,1.0,11.0
+161,Girga,Suhag,1.0,,,,,
+162,Giza,Giza,64.0,119.0,59.0,,4.0,131.0
+163,Giza,Giza,2.0,1.0,,,,3.0
+164,Guhayna Al-Gharbiyya,Suhag,1.0,,1.0,,,
+165,Hadaiq Al-Qubba,Cairo,66.0,136.0,51.0,1.0,2.0,154.0
+166,Halayib,Red Sea,,,,,,
+167,Hihya,Sharkia,1.0,,,,,
+168,Hilwan,Cairo,58.0,70.0,33.0,3.0,2.0,134.0
+169,Hurghada 1,Red Sea,,,,,,
+170,Hurghada 2,Red Sea,,,,,,
+171,Hush Isa,Behera,1.0,,,,,
+172,Hwamdeia,Giza,8.0,16.0,3.0,,,17.0
+173,Idku,Behera,1.0,1.0,,,,
+174,Imbaba,Giza,33.0,90.0,37.0,5.0,,148.0
+175,Imbaba,Giza,,,,,,
+176,Ismailiyya,Ismailia,,,,,,
+177,Ismailiyya 1,Ismailia,12.0,19.0,8.0,2.0,1.0,57.0
+178,Ismailiyya 2,Ismailia,10.0,36.0,12.0,1.0,,72.0
+179,Ismailiyya 3,Ismailia,20.0,60.0,24.0,3.0,1.0,138.0
+180,Isna,Qena,,,,,,
+181,Itay Al-Barud,Behera,3.0,15.0,3.0,1.0,,33.0
+182,Kafr Al-Dawwar,Behera,15.0,44.0,7.0,,1.0,53.0
+183,Kafr Al-Dawwar,Behera,,,,,,
+184,Kafr Al-Shaykh,Kafr El-Shikh,30.0,114.0,23.0,2.0,2.0,113.0
+185,Kafr Al-Shaykh,Kafr El-Shikh,,,,,,
+186,Kafr Al-Zayyat,Gharbia,2.0,5.0,3.0,,,5.0
+187,Kafr Sad,Damietta,1.0,,,,,
+188,Kafr Saqr,Sharkia,,,,,,
+189,Kafr Shukr,Kalyoubia,2.0,5.0,1.0,,,10.0
+190,Kardasa,Giza,3.0,3.0,2.0,2.0,,2.0
+191,Karmuz,Alexandria,30.0,55.0,33.0,1.0,4.0,61.0
+192,Kawther,Suhag,7.0,26.0,3.0,1.0,,17.0
+193,Kesm Al-minya,Menia,18.0,54.0,14.0,1.0,2.0,74.0
+194,Kesm Awal Assuit,Assiut,,8.0,,1.0,,8.0
+195,Kesm Mallawi,Menia,15.0,21.0,2.0,,,20.0
+196,Kesm Tahta,Suhag,9.0,24.0,9.0,1.0,1.0,25.0
+197,Kesm than Al Raml,Alexandria,17.0,15.0,5.0,2.0,,10.0
+198,Kesm Than Assuit,Assiut,29.0,129.0,31.0,,,183.0
+199,Khsos,Kalyoubia,25.0,42.0,16.0,,,40.0
+200,Kum Hamada,Behera,,,,,,
+201,Kum Umbu,Aswan,2.0,10.0,3.0,2.0,1.0,3.0
+202,Luxor,Luxor,,,,,,2.0
+203,Luxor,Luxor,,,,,,
+204,Maadi,Cairo,3.0,,1.0,,,
+205,Madinat Nasr-2,Cairo,10.0,27.0,7.0,1.0,,42.0
+206,Mahalet Demna,Dakahlia,,1.0,,,,1.0
+207,Manfalut,Assiut,,,,,,
+208,Manzala,Dakahlia,,1.0,,,,
+209,Marg,Cairo,41.0,47.0,17.0,,1.0,48.0
+210,Markz Abu Qurqas,Menia,,,,,,
+211,Markz Al Idwa,Menia,,,,,,
+212,Markz Al Minya,Menia,,,,,,
+213,Markz Bani Mazar,Menia,,2.0,,,,
+214,Markz Dir Mawas,Menia,,,,,,
+215,Markz Maghagha,Menia,,,,,,
+216,Markz Mallawi,Menia,1.0,,,,,
+217,Markz Matay,Menia,,,,,,
+218,Markz Samalut,Menia,,,,,,
+219,Marsa Alam,Red Sea,,,,,,
+220,Marsa Matruh,Matrouh,,,,,,
+221,Mashtul Al-Suq,Sharkia,3.0,8.0,4.0,,,3.0
+222,Matariyya,Dakahlia,,,,,,
+223,Mina Al-Basal,Alexandria,14.0,29.0,15.0,,,43.0
+224,Minshat Nasir,Cairo,5.0,19.0,3.0,3.0,,21.0
+225,Minuf,Menoufia,,,1.0,,,
+226,Minuf City,Menoufia,6.0,27.0,7.0,,1.0,21.0
+227,Minya Al-Nasr,Dakahlia,,1.0,,,,
+228,Minya al-Qamh,Sharkia,1.0,1.0,,,,2.0
+229,Misr al-Gadida,Cairo,87.0,203.625,93.0,11.0,,41.0
+230,Misr Al-Qadima,Cairo,13.0,32.0,10.0,3.0,2.0,44.0
+231,Mit Ghamr,Dakahlia,8.0,21.0,6.0,,1.0,17.0
+232,Mit Ghamr,Dakahlia,3.0,,,,,
+233,MIt Salsil,Dakahlia,,,,,,
+234,Mitubas,Kafr El-Shikh,,,,,,
+235,Mubark-Sharq Tafrea,Port Said,,,,,,
+236,Muharam Bik,Alexandria,17.0,26.0,8.0,2.0,,41.0
+237,Muntazah,Alexandria,28.0,36.0,9.0,4.0,,18.0
+238,Muski,Cairo,78.0,203.625,93.0,9.0,6.0,41.0
+239,Nag Hammadi,Qena,,1.0,,,,
+240,Nakhl,North Sinai,,,,,,
+241,Naqada,Qena,1.0,2.0,,,,1.0
+242,Nasir,Beni Suef,,,1.0,,,
+243,Nasr,Aswan,,,,,,
+244,Nasr City,Cairo,21.0,22.0,13.0,,,49.0
+245,Nebro,Dakahlia,1.0,,,,,2.0
+246,New Cairo-1,Cairo,1.0,,1.0,,,1.0
+247,New Cairo-2,Cairo,,,,,,1.0
+248,New Cairo-3,Cairo,,1.0,4.0,,,5.0
+249,New Minya,Menia,,2.0,,,,1.0
+250,North Coast,Alexandria,,,1.0,1.0,,1.0
+251,North Coast,Matrouh,,1.0,,,,
+252,Nubariyya West,Behera,,,,,,
+253,Nuweiba,South Sinai,,,,,,
+254,Nuzha,Cairo,8.0,17.0,14.0,1.0,,104.0
+255,Paris Paris,New Valley,,,,,,
+256,Police Department Port of Damietta,Damietta,,1.0,,,,1.0
+257,Police Department Port Said Port,Port Said,32.0,74.0,48.0,5.0,1.0,154.0
+258,Port Alexandria Police Department,Alexandria,10.0,18.0,12.0,,,30.0
+259,Port Fuad,Port Said,5.0,14.0,14.0,,,42.0
+260,Port Fuad 2,Port Said,,,,,,
+261,Port Suez Police Department,Suez,,,,,,
+262,Qaha,Kalyoubia,,4.0,1.0,,2.0,5.0
+263,Qalyub,Kalyoubia,9.0,20.0,3.0,2.0,1.0,31.0
+264,Qalyub,Kalyoubia,,2.0,1.0,,,1.0
+265,Qanatir Al-Khayriyya,Kalyoubia,,3.0,1.0,,,
+266,"Qantara Gharb, al-",Ismailia,,1.0,,,,1.0
+267,"Qantara Sharq, al-",Ismailia,,,,,,
+268,Qasima,North Sinai,,,,,,
+269,Qasr Al-Nile,Cairo,83.0,203.625,87.0,11.0,2.0,41.0
+270,Qift,Qena,1.0,2.0,2.0,,,1.0
+271,Qillin,Kafr El-Shikh,1.0,,,,,
+272,Qina,Qena,19.0,70.0,15.0,,1.0,72.0
+273,Qina,Qena,,,,,,
+274,Qina City,Qena,1.0,2.0,,,,
+275,Qurin,Sharkia,,5.0,3.0,,,2.0
+276,Qus,Qena,,,,,,
+277,Qusir,Red Sea,,,,,,
+278,Qutur,Gharbia,,9.0,1.0,,,4.0
+279,Quwisna,Menoufia,,,,,,2.0
+280,Rafah,North Sinai,,,,,,
+281,Ras al-Bar,Damietta,4.0,18.0,9.0,1.0,,78.0
+282,Ras Gharib,Red Sea,,,,,,
+283,Ras Sidr,South Sinai,,,,,,
+284,Rashid,Behera,,,,,,
+285,Riyad,Kafr El-Shikh,,,,,,
+286,Rud Al-Farag,Cairo,60.0,124.0,47.0,2.0,6.0,216.0
+287,Rummana,North Sinai,,,,,,
+288,Sadat City,Menoufia,,,,,,
+289,Saf,Giza,,,,,,
+290,Safaga,Red Sea,,,,,,
+291,Sahil Silim,Assiut,,,,,,
+292,Salloum,Matrouh,,,,,,
+293,Samannud,Gharbia,1.0,2.0,,,,
+294,Sant Katrin,South Sinai,,,,,,
+295,Santa,Gharbia,,,,,,
+296,Saqulta,Suhag,,,,,,
+297,Sayyida Zainab,Cairo,72.0,203.625,71.0,3.0,1.0,265.0
+298,Shallatin,Red Sea,,,,,,
+299,Sharm el-Sheikh,South Sinai,,,,,,
+300,Shaykh Zayed,Giza,17.0,26.0,17.0,1.0,,58.0
+301,Shaykh Zuwayd,North Sinai,,,,,,
+302,Shibin al-Kum,Menoufia,29.0,72.0,29.0,3.0,3.0,96.0
+303,Shibin al-Kum,Menoufia,1.0,,,,,
+304,Shibin al-Qanatir,Kalyoubia,1.0,3.0,,,,4.0
+305,Shirbin,Dakahlia,,,,,,
+306,Shroq,Cairo,1.0,1.0,,,,
+307,Shubra,Cairo,86.0,140.0,55.0,2.0,6.0,206.0
+308,Shubra Al-Khayma 1,Kalyoubia,30.0,56.0,28.0,1.0,2.0,66.0
+309,Shubra Al-Khayma 2,Kalyoubia,22.0,40.0,22.0,,,55.0
+310,Shubra Khit,Behera,,,,,,1.0
+311,Sidfa,Assiut,,,,,,
+312,Sidi Barani,Matrouh,,,,,,
+313,Sidi Gabir,Alexandria,87.0,203.625,93.0,11.0,4.0,41.0
+314,Sidi Salim,Kafr El-Shikh,,,1.0,,,
+315,Sinbillawin,Dakahlia,,,,,,
+316,Sinuras,Fayoum,,,,,,
+317,Sirs Al-Layyana City,Menoufia,6.0,6.0,2.0,,,13.0
+318,Siwa,Matrouh,,,,,,
+319,Suez,Suez,4.0,18.0,13.0,1.0,,62.0
+320,Suhag,Suhag,22.0,77.0,15.0,2.0,2.0,65.0
+321,Suhag,Suhag,1.0,1.0,,,,
+322,Suhag-2,Suhag,20.0,64.0,13.0,2.0,2.0,39.0
+323,Suhag City,Suhag,,,,,,
+324,Sumusta,Beni Suef,,,,,,
+325,Taba,South Sinai,,,,,,1.0
+326,Tahta,Suhag,,,,,,
+327,"Tal al-Kabir, al-",Ismailia,,,,,,
+328,Tala,Menoufia,2.0,24.0,6.0,,,13.0
+329,Talkha,Dakahlia,1.0,,,,,
+330,Tama,Suhag,1.0,,,,,
+331,Tamy Al-Amdid,Dakahlia,,1.0,,,,
+332,Tamya,Fayoum,,,,,,
+333,Tanta,Gharbia,,3.0,,,,3.0
+334,Tanta 1,Gharbia,34.0,103.0,36.0,2.0,,202.0
+335,Tanta 2,Gharbia,41.0,151.0,48.0,2.0,1.0,198.0
+336,Tiba police station,Luxor,,,,,,
+337,Tukh,Kalyoubia,2.0,4.0,4.0,,,17.0
+338,Tura,Cairo,,,,,,
+339,Tushaka,Aswan,,,,,,
+340,Umraniyya,Giza,59.0,87.0,36.0,2.0,,135.0
+341,Wadi Al-NatrUn,Behera,,,,,,
+342,Waraq,Giza,13.0,15.0,8.0,,,21.0
+343,Yousef El sadeq,Fayoum,,,,,,
+344,Zamalik,Cairo,83.0,203.625,93.0,11.0,,41.0
+345,Zaqaziq,Sharkia,1.0,1.0,1.0,,,
+346,Zaqaziq 1,Sharkia,36.0,95.0,34.0,2.0,1.0,107.0
+347,Zaqaziq 2,Sharkia,12.0,40.0,15.0,1.0,,34.0
+348,Zarqa,Damietta,1.0,7.0,3.0,,,6.0
+349,Zawiyya Al-Hamra,Cairo,32.0,64.0,43.0,,,75.0
+350,Zemam Out,Cairo,,,,,,
+351,Zemam Out,Alexandria,,,,,,
+352,Zemam Out,Sharkia,4.0,,2.0,,,2.0
+353,Zemam Out,Kalyoubia,,1.0,,,,
+354,Zemam Out,Behera,,,,,,
+355,Zemam Out,Giza,,,,,,
+356,Zemam Out,Beni Suef,,,,,,
+357,Zemam Out,Fayoum,,,,,,
+358,Zemam Out,Menia,,,,,,
+359,Zemam Out,Aswan,,,,,,
+360,Zemam Out,Luxor,,,,,,
+361,Zemam Out,Assiut,,,,,,
+362,Zemam Out,Suhag,,,,,,
+363,Zemam Out,Qena,,,,,,
+364,Zifta,Gharbia,,,,,,

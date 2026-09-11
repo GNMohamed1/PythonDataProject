@@ -1,0 +1,348 @@
+,name_en,gov_en,school_count,hospital_count,supermarket_count,park_count,metro_station_count,cafe_restaurant_count
+0,Qasr Al-Nile,Cairo,83,283,87,11,2,565
+1,Abdin,Cairo,92,242,106,8,3,539
+2,Misr al-Gadida,Cairo,93,295,110,12,0,472
+3,DuqqI,Giza,90,306,90,8,0,475
+4,Muski,Cairo,78,220,98,9,7,507
+5,Al-Aguza,Giza,61,289,88,6,0,473
+6,Zamalik,Cairo,83,234,93,11,0,473
+7,Bulaq,Cairo,85,200,83,10,7,490
+8,Al Azbakiyya,Cairo,91,246,78,5,7,413
+9,Sidi Gabir,Alexandria,120,204,101,13,4,394
+10,Al Attarin,Alexandria,98,204,92,9,5,410
+11,Bab Sharqi,Alexandria,110,220,79,6,1,371
+12,Sayyida Zainab,Cairo,72,212,71,3,1,278
+13,Bab Al-Shariyya,Cairo,64,130,76,3,9,292
+14,Al Manshiyya,Alexandria,47,126,71,5,5,318
+15,Ain Shams,Cairo,120,143,71,2,2,195
+16,Al Zaytun,Cairo,73,171,87,6,2,174
+17,Shubra,Cairo,86,140,55,2,8,206
+18,A L Labban,Alexandria,47,103,70,4,5,261
+19,Al-Arab,Port Said,43,95,62,8,1,267
+20,El Mansora 1,Dakahlia,57,122,72,6,0,199
+21,Rud Al-Farag,Cairo,60,124,47,2,6,216
+22,Al-Sharq,Port Said,32,81,43,8,1,285
+23,Tanta 2,Gharbia,41,151,48,2,1,198
+24,Al Raml,Alexandria,89,130,67,2,3,135
+25,Hadaiq Al-Qubba,Cairo,66,136,51,1,2,154
+26,Al Sahil,Cairo,53,108,41,5,0,191
+27,Al Zahir,Cairo,62,115,50,4,3,161
+28,Al-Munakh,Port Said,48,83,56,6,1,200
+29,Gamaliyya,Cairo,46,86,61,6,3,191
+30,Al Darb al-Ahmar,Cairo,36,86,60,7,0,201
+31,Giza,Giza,64,119,59,0,4,131
+32,Tanta 1,Gharbia,34,103,36,2,0,202
+33,Kesm Than Assuit,Assiut,29,129,31,0,0,183
+34,Al Wayli,Cairo,56,132,37,2,3,136
+35,Banha,Kalyoubia,34,109,34,2,2,177
+36,Al Sharabiyya,Cairo,58,123,47,3,3,119
+37,El Mahalla El Kobra 1,Gharbia,37,90,40,1,2,162
+38,Al-Ahram,Giza,42,76,33,2,0,175
+39,Damanhur,Behera,37,89,42,4,0,155
+40,Umraniyya,Giza,59,87,36,2,0,135
+41,Police Department Port Said Port,Port Said,32,74,48,5,1,154
+42,Bulaq Al-DakrUr,Giza,51,93,38,0,0,131
+43,Imbaba,Giza,33,90,37,5,0,148
+44,Hilwan,Cairo,58,70,33,3,2,134
+45,Kafr Al-Shaykh,Kafr El-Shikh,30,114,23,2,2,113
+46,Bani Swayf,Beni Suef,30,89,23,5,2,130
+47,Al Matariyya,Cairo,49,69,41,1,2,114
+48,Zaqaziq 1,Sharkia,36,95,34,2,1,107
+49,Fayyum,Fayoum,29,84,19,2,1,116
+50,El Mahalla El Kobra 2,Gharbia,31,75,27,1,2,115
+51,Ismailiyya 3,Ismailia,20,60,24,3,1,138
+52,Al Khalifa,Cairo,37,58,31,2,0,109
+53,Shibin al-Kum,Menoufia,29,72,29,3,3,96
+54,Basatin,Cairo,44,38,20,2,0,126
+55,Al Gumruk,Alexandria,22,45,34,5,0,122
+56,Dumyat 2,Damietta,20,75,36,0,1,91
+57,Zawiyya Al-Hamra,Cairo,32,64,43,0,0,75
+58,Dumyat 1,Damietta,18,59,30,1,1,102
+59,Karmuz,Alexandria,30,55,33,1,4,61
+60,Shubra Al-Khayma 1,Kalyoubia,30,56,28,1,2,66
+61,Suhag,Suhag,22,77,15,2,2,65
+62,Qina,Qena,19,70,15,0,1,72
+63,6 October-1,Giza,17,30,14,2,0,113
+64,Kesm Al-minya,Menia,18,54,14,1,2,74
+65,Al-Arbiin,Suez,20,44,27,0,1,71
+66,Marg,Cairo,41,47,17,0,1,48
+67,Nuzha,Cairo,8,17,14,1,0,104
+68,Al-Zohour,Port Said,26,29,16,1,0,71
+69,Suhag-2,Suhag,20,64,13,2,2,39
+70,Shubra Al-Khayma 2,Kalyoubia,22,40,22,0,0,55
+71,Ismailiyya 2,Ismailia,10,36,12,1,0,72
+72,Khsos,Kalyoubia,25,42,16,0,0,40
+73,Kafr Al-Dawwar,Behera,15,44,7,0,1,53
+74,Shaykh Zayed,Giza,17,26,17,1,0,58
+75,Akhmim,Suhag,17,56,9,1,2,29
+76,Ras al-Bar,Damietta,4,18,9,1,0,78
+77,6 October-2,Giza,17,28,18,1,0,42
+78,Al-Dawahy,Port Said,19,19,21,1,1,44
+79,Nasr City,Cairo,21,22,13,0,0,49
+80,Misr Al-Qadima,Cairo,13,32,10,3,2,44
+81,Zaqaziq 2,Sharkia,12,40,15,1,0,34
+82,Mina Al-Basal,Alexandria,14,29,15,0,0,43
+83,Ismailiyya 1,Ismailia,12,19,8,2,1,57
+84,Suez,Suez,4,18,13,1,0,62
+85,Faqus,Sharkia,12,35,6,0,1,44
+86,Muntazah,Alexandria,28,36,9,4,0,18
+87,Muharam Bik,Alexandria,17,26,8,2,0,41
+88,Madinat Nasr-2,Cairo,10,27,7,1,0,42
+89,Port Fuad,Port Said,5,14,14,0,0,42
+90,Port Alexandria Police Department,Alexandria,10,18,12,0,0,30
+91,Kesm Tahta,Suhag,9,24,9,1,1,25
+92,Disuq,Kafr El-Shikh,8,28,8,1,1,20
+93,Qalyub,Kalyoubia,9,20,3,2,1,31
+94,E Mansora 2,Dakahlia,5,22,11,0,0,27
+95,Al Salam,Cairo,10,15,3,1,0,34
+96,Minuf City,Menoufia,6,27,7,0,1,21
+97,Kesm Mallawi,Menia,15,21,2,0,0,20
+98,Waraq,Giza,13,15,8,0,0,21
+99,Girga,Suhag,13,18,12,0,1,11
+100,Itay Al-Barud,Behera,3,15,3,1,0,33
+101,Kawther,Suhag,7,26,3,1,0,17
+102,Mit Ghamr,Dakahlia,8,21,6,0,1,17
+103,Minshat Nasir,Cairo,5,19,3,3,0,21
+104,Al Dikhila,Alexandria,12,12,7,0,0,19
+105,Kesm than Al Raml,Alexandria,17,15,5,2,0,10
+106,Gamsa,Dakahlia,0,5,6,0,0,38
+107,Abour,Kalyoubia,8,13,8,0,0,20
+108,Tala,Menoufia,2,24,6,0,0,13
+109,Hwamdeia,Giza,8,16,3,0,0,17
+110,Dyarb Nigm,Sharkia,7,13,3,0,0,20
+111,Al Khanka,Kalyoubia,9,9,3,0,1,17
+112,Badr,Cairo,5,12,2,0,0,13
+113,Sirs Al-Layyana City,Menoufia,6,6,2,0,0,13
+114,Tukh,Kalyoubia,2,4,4,0,0,17
+115,Abu Hummus,Behera,1,10,3,0,1,12
+116,Kum Umbu,Aswan,2,10,3,2,1,3
+117,Aswan,Aswan,7,6,2,0,0,5
+118,El-Ibrahimiya,Sharkia,2,8,1,1,0,8
+119,Auseem,Giza,2,8,4,0,0,5
+120,Kafr Shukr,Kalyoubia,2,5,1,0,0,10
+121,Mashtul Al-Suq,Sharkia,3,8,4,0,0,3
+122,Kesm Awal Assuit,Assiut,0,8,0,1,0,8
+123,Zarqa,Damietta,1,7,3,0,0,6
+124,Kafr Al-Zayyat,Gharbia,2,5,3,0,0,5
+125,Al-Bagur,Menoufia,2,2,2,0,0,9
+126,Qutur,Gharbia,0,9,1,0,0,4
+127,15 Mayu,Cairo,5,2,2,0,0,4
+128,Kardasa,Giza,3,3,2,2,0,2
+129,Qaha,Kalyoubia,0,4,1,0,2,5
+130,Abu Tisht,Qena,2,3,0,0,0,5
+131,New Cairo-3,Cairo,0,1,4,0,0,5
+132,Qurin,Sharkia,0,5,3,0,0,2
+133,Abshaway,Fayoum,1,4,0,0,0,4
+134,Shibin al-Qanatir,Kalyoubia,1,3,0,0,0,4
+135,Zemam Out,Sharkia,4,0,2,0,0,2
+136,Abu Kabir,Sharkia,2,0,1,0,0,4
+137,El Arish 1,North Sinai,1,2,0,0,0,4
+138,Qift,Qena,1,2,2,0,0,1
+139,Tanta,Gharbia,0,3,0,0,0,3
+140,Al-Balyana,Suhag,0,3,1,0,0,1
+141,Dumyat Al-Gadida,Damietta,0,2,2,0,0,1
+142,Qanatir Al-Khayriyya,Kalyoubia,0,3,1,0,0,0
+143,Minya al-Qamh,Sharkia,1,1,0,0,0,2
+144,Naqada,Qena,1,2,0,0,0,1
+145,Farshut,Qena,1,0,2,0,1,0
+146,Badrashain,Giza,2,2,0,0,0,0
+147,Bany Abeed,Dakahlia,2,2,0,0,0,0
+148,Ayat,Giza,2,0,0,0,0,2
+149,Ashmun,Menoufia,1,0,0,0,0,3
+150,Abu Hammad,Sharkia,0,3,0,0,0,1
+151,Maadi,Cairo,3,0,1,0,0,0
+152,New Minya,Menia,0,2,0,0,0,1
+153,Ahnasya,Beni Suef,1,1,0,0,0,1
+154,Qina City,Qena,1,2,0,0,0,0
+155,Bilqas,Dakahlia,1,2,0,0,0,0
+156,Armant,Qena,0,2,1,0,0,0
+157,New Cairo-1,Cairo,1,0,1,0,0,1
+158,Nebro,Dakahlia,1,0,0,0,0,2
+159,Samannud,Gharbia,1,2,0,0,0,0
+160,Zaqaziq,Sharkia,1,1,1,0,0,0
+161,El Mahalla El Kobra,Gharbia,0,0,1,0,0,2
+162,Dar al-Salam,Suhag,0,1,0,0,0,2
+163,North Coast,Alexandria,0,0,1,1,0,1
+164,Guhayna Al-Gharbiyya,Suhag,1,0,1,0,0,0
+165,Idku,Behera,1,1,0,0,0,0
+166,Assuit,Assiut,0,2,0,0,0,0
+167,10 Ramadan 2,Sharkia,0,1,0,0,0,1
+168,Aga,Dakahlia,0,0,2,0,0,0
+169,Shroq,Cairo,1,1,0,0,0,0
+170,Police Department Port of Damietta,Damietta,0,1,0,0,0,1
+171,"Qantara Gharb, al-",Ismailia,0,1,0,0,0,1
+172,Quwisna,Menoufia,0,0,0,0,0,2
+173,Al Amreia,Alexandria,0,0,0,0,0,2
+174,Al-Qanayat,Sharkia,2,0,0,0,0,0
+175,Fariskur,Damietta,0,0,0,0,0,2
+176,Mahalet Demna,Dakahlia,0,1,0,0,0,1
+177,Markz Bani Mazar,Menia,0,2,0,0,0,0
+178,Al Usayrat,Suhag,2,0,0,0,0,0
+179,Luxor,Luxor,0,0,0,0,0,2
+180,Markz Mallawi,Menia,1,0,0,0,0,0
+181,New Cairo-2,Cairo,0,0,0,0,0,1
+182,Minuf,Menoufia,0,0,1,0,0,0
+183,Al- Badari,Assiut,0,1,0,0,0,0
+184,Taba,South Sinai,0,0,0,0,0,1
+185,Tamy Al-Amdid,Dakahlia,0,1,0,0,0,0
+186,Zemam Out,Kalyoubia,0,1,0,0,0,0
+187,Tama,Suhag,1,0,0,0,0,0
+188,Minya Al-Nasr,Dakahlia,0,1,0,0,0,0
+189,Al Fashn,Beni Suef,0,1,0,0,0,0
+190,North Coast,Matrouh,0,1,0,0,0,0
+191,Nag Hammadi,Qena,0,1,0,0,0,0
+192,Nasir,Beni Suef,0,0,1,0,0,0
+193,Qillin,Kafr El-Shikh,1,0,0,0,0,0
+194,Al-Minshat,Suhag,1,0,0,0,0,0
+195,Shubra Khit,Behera,0,0,0,0,0,1
+196,Sidi Salim,Kafr El-Shikh,0,0,1,0,0,0
+197,Talkha,Dakahlia,1,0,0,0,0,0
+198,Manzala,Dakahlia,0,1,0,0,0,0
+199,Fayid,Ismailia,0,0,0,0,1,0
+200,10 Ramadan 1,Sharkia,0,0,0,0,0,1
+201,Hush Isa,Behera,1,0,0,0,0,0
+202,Hihya,Sharkia,1,0,0,0,0,0
+203,Kafr Sad,Damietta,1,0,0,0,0,0
+204,Birkat Al-Sab,Menoufia,0,1,0,0,0,0
+205,Assuit City,Assiut,1,0,0,0,0,0
+206,Atfeh,Giza,0,1,0,0,0,0
+207,El Arish 3,North Sinai,0,0,0,0,0,0
+208,Dishna,Qena,0,0,0,0,0,0
+209,El Mansora,Dakahlia,0,0,0,0,0,0
+210,Dikirnis,Dakahlia,0,0,0,0,0,0
+211,Bahariya Oasis,Giza,0,0,0,0,0,0
+212,Badr,Behera,0,0,0,0,0,0
+213,Gamaliyya,Dakahlia,0,0,0,0,0,0
+214,Fuwwa,Kafr El-Shikh,0,0,0,0,0,0
+215,Fayyum City,Fayoum,0,0,0,0,0,0
+216,Faysal,Suez,0,0,0,0,0,0
+217,El Arish 4,North Sinai,0,0,0,0,0,0
+218,Biyalu,Kafr El-Shikh,0,0,0,0,0,0
+219,Zemam Out,Cairo,0,0,0,0,0,0
+220,Zemam Out,Alexandria,0,0,0,0,0,0
+221,Abnub,Assiut,0,0,0,0,0,0
+222,A-Dakhla Oasis,New Valley,0,0,0,0,0,0
+223,Abu Radis,South Sinai,0,0,0,0,0,0
+224,Abu-l-Matamir,Behera,0,0,0,0,0,0
+225,Marsa Matruh,Matrouh,0,0,0,0,0,0
+226,Marsa Alam,Red Sea,0,0,0,0,0,0
+227,Markz Samalut,Menia,0,0,0,0,0,0
+228,Markz Matay,Menia,0,0,0,0,0,0
+229,Markz Maghagha,Menia,0,0,0,0,0,0
+230,Markz Dir Mawas,Menia,0,0,0,0,0,0
+231,Markz Al Idwa,Menia,0,0,0,0,0,0
+232,Markz Al Minya,Menia,0,0,0,0,0,0
+233,Al Waqf,Qena,0,0,0,0,0,0
+234,Al Wasta,Beni Suef,0,0,0,0,0,0
+235,Markz Abu Qurqas,Menia,0,0,0,0,0,0
+236,Alamn,Matrouh,0,0,0,0,0,0
+237,Kum Hamada,Behera,0,0,0,0,0,0
+238,Manfalut,Assiut,0,0,0,0,0,0
+239,Al Tibbin,Cairo,0,0,0,0,0,0
+240,Ataqa,Suez,0,0,0,0,0,0
+241,Aswan City,Aswan,0,0,0,0,0,0
+242,Atsa,Fayoum,0,0,0,0,0,0
+243,Awlad Saqr,Sharkia,0,0,0,0,0,0
+244,Bani Swayf City,Beni Suef,0,0,0,0,0,0
+245,Basyun,Gharbia,0,0,0,0,0,0
+246,Biba,Beni Suef,0,0,0,0,0,0
+247,Bilbis,Sharkia,0,0,0,0,0,0
+248,Hurghada 2,Red Sea,0,0,0,0,0,0
+249,Isna,Qena,0,0,0,0,0,0
+250,Ismailiyya,Ismailia,0,0,0,0,0,0
+251,Kafr Saqr,Sharkia,0,0,0,0,0,0
+252,Alfath,Assiut,0,0,0,0,0,0
+253,Bir Al-Abd,North Sinai,0,0,0,0,0,0
+254,Halayib,Red Sea,0,0,0,0,0,0
+255,Hurghada 1,Red Sea,0,0,0,0,0,0
+256,Wadi Al-NatrUn,Behera,0,0,0,0,0,0
+257,Yousef El sadeq,Fayoum,0,0,0,0,0,0
+258,Tiba police station,Luxor,0,0,0,0,0,0
+259,Tura,Cairo,0,0,0,0,0,0
+260,Tushaka,Aswan,0,0,0,0,0,0
+261,Daraw,Aswan,0,0,0,0,0,0
+262,Dayrut,Assiut,0,0,0,0,0,0
+263,Burg al-Arab,Alexandria,0,0,0,0,0,0
+264,Daba,Matrouh,0,0,0,0,0,0
+265,Dahab,South Sinai,0,0,0,0,0,0
+266,Burullus,Kafr El-Shikh,0,0,0,0,0,0
+267,Burg Al-Arab City,Alexandria,0,0,0,0,0,0
+268,El Arish 2,North Sinai,0,0,0,0,0,0
+269,Dumyat,Damietta,0,0,0,0,0,0
+270,Mitubas,Kafr El-Shikh,0,0,0,0,0,0
+271,Nubariyya West,Behera,0,0,0,0,0,0
+272,Nuweiba,South Sinai,0,0,0,0,0,0
+273,Mubark-Sharq Tafrea,Port Said,0,0,0,0,0,0
+274,Al Hamul,Kafr El-Shikh,0,0,0,0,0,0
+275,Al-Qusia,Assiut,0,0,0,0,0,0
+276,Al-Tur,South Sinai,0,0,0,0,0,0
+277,Al-Shuhada,Menoufia,0,0,0,0,0,0
+278,Al-Salhiyya,Sharkia,0,0,0,0,0,0
+279,Nasr,Aswan,0,0,0,0,0,0
+280,Nakhl,North Sinai,0,0,0,0,0,0
+281,MIt Salsil,Dakahlia,0,0,0,0,0,0
+282,Al Farafra Oasis,New Valley,0,0,0,0,0,0
+283,Matariyya,Dakahlia,0,0,0,0,0,0
+284,Sant Katrin,South Sinai,0,0,0,0,0,0
+285,Salloum,Matrouh,0,0,0,0,0,0
+286,Sahil Silim,Assiut,0,0,0,0,0,0
+287,Safaga,Red Sea,0,0,0,0,0,0
+288,Sadat City,Menoufia,0,0,0,0,0,0
+289,Saf,Giza,0,0,0,0,0,0
+290,Rummana,North Sinai,0,0,0,0,0,0
+291,Riyad,Kafr El-Shikh,0,0,0,0,0,0
+292,Rafah,North Sinai,0,0,0,0,0,0
+293,Rashid,Behera,0,0,0,0,0,0
+294,Ras Sidr,South Sinai,0,0,0,0,0,0
+295,Ras Gharib,Red Sea,0,0,0,0,0,0
+296,Qusir,Red Sea,0,0,0,0,0,0
+297,Qasima,North Sinai,0,0,0,0,0,0
+298,Qus,Qena,0,0,0,0,0,0
+299,Paris Paris,New Valley,0,0,0,0,0,0
+300,Port Suez Police Department,Suez,0,0,0,0,0,0
+301,Port Fuad 2,Port Said,0,0,0,0,0,0
+302,"Qantara Sharq, al-",Ismailia,0,0,0,0,0,0
+303,Al-Rahmaniyya,Behera,0,0,0,0,0,0
+304,Al-Kharga Oasis,New Valley,0,0,0,0,0,0
+305,Al-Mahmudiyya,Behera,0,0,0,0,0,0
+306,Santa,Gharbia,0,0,0,0,0,0
+307,Al-Ganoub,Port Said,0,0,0,0,0,0
+308,Al-Ganoub 2,Port Said,0,0,0,0,0,0
+309,Shallatin,Red Sea,0,0,0,0,0,0
+310,Saqulta,Suhag,0,0,0,0,0,0
+311,Sharm el-Sheikh,South Sinai,0,0,0,0,0,0
+312,Shaykh Zuwayd,North Sinai,0,0,0,0,0,0
+313,Al-Dilingat,Behera,0,0,0,0,0,0
+314,Al-Ganayin,Suez,0,0,0,0,0,0
+315,Abu Tig,Assiut,0,0,0,0,0,0
+316,Abu Simbel,Aswan,0,0,0,0,0,0
+317,Siwa,Matrouh,0,0,0,0,0,0
+318,Sinuras,Fayoum,0,0,0,0,0,0
+319,Sinbillawin,Dakahlia,0,0,0,0,0,0
+320,Sidi Barani,Matrouh,0,0,0,0,0,0
+321,Sidfa,Assiut,0,0,0,0,0,0
+322,Shirbin,Dakahlia,0,0,0,0,0,0
+323,Al-Maragha,Suhag,0,0,0,0,0,0
+324,Al-Manasra,Port Said,0,0,0,0,0,0
+325,Al-Ghanayem,Assiut,0,0,0,0,0,0
+326,Al-Hammam,Matrouh,0,0,0,0,0,0
+327,Al-Hasna,North Sinai,0,0,0,0,0,0
+328,Al-Husayniya,Sharkia,0,0,0,0,0,0
+329,Akhmim City,Suhag,0,0,0,0,0,0
+330,Adfu,Aswan,0,0,0,0,0,0
+331,Tahta,Suhag,0,0,0,0,0,0
+332,"Tal al-Kabir, al-",Ismailia,0,0,0,0,0,0
+333,Suhag City,Suhag,0,0,0,0,0,0
+334,Sumusta,Beni Suef,0,0,0,0,0,0
+335,Tamya,Fayoum,0,0,0,0,0,0
+336,Zemam Out,Behera,0,0,0,0,0,0
+337,Zemam Out,Giza,0,0,0,0,0,0
+338,Zemam Out,Beni Suef,0,0,0,0,0,0
+339,Zemam Out,Fayoum,0,0,0,0,0,0
+340,Zemam Out,Menia,0,0,0,0,0,0
+341,Zemam Out,Aswan,0,0,0,0,0,0
+342,Zemam Out,Luxor,0,0,0,0,0,0
+343,Zemam Out,Assiut,0,0,0,0,0,0
+344,Zemam Out,Suhag,0,0,0,0,0,0
+345,Zemam Out,Qena,0,0,0,0,0,0
+346,Zifta,Gharbia,0,0,0,0,0,0
